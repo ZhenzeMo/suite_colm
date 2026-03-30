@@ -1,0 +1,204 @@
+{
+    "warrant_taxonomy_v1.2": {
+      "version": "1.2",
+      "domain_scope": "Interpersonal conflicts and moral judgments in user-generated comments (e.g., AITA-like settings).",
+      "goal": "Assign a single Primary Warrant (dominant justificatory bridge) that best explains how the commenter moves from cited considerations (evidence) to an evaluative stance (YTA/NTA) in the comment.",
+      "description": "A closed-set taxonomy of 10 operationally separable reasoning warrants for moral judgment. Warrants are treated as textually expressed justificatory rules that bridge evidence (what the commenter treats as relevant) to stance (the evaluative conclusion). The taxonomy is designed for reliability (stable labeling) rather than exhaustively capturing all moral nuance.",
+      "design_principle": "Prioritize the Primary Warrant: the single warrant that functions as the terminal justification most responsible for the commenter's conclusion. Categories include explicit boundary rules (exclusionary clauses) to prevent semantic collapse and reduce dependence on wording order or rhetorical emphasis.",
+      "annotation_target": {
+        "unit": "comment",
+        "output": "primary_warrant",
+        "constraint": "Ground the warrant in what the comment explicitly justifies (not what the scenario might suggest)."
+      },
+      "categories": {
+        "care_harm": {
+          "label": "Care/Harm Prevention",
+          "description": "The judgment is primarily justified by concern about direct physical or emotional suffering of a person (victim-centered empathy, trauma, distress).",
+          "key_principle": "Moral weight is placed on preventing or alleviating direct suffering.",
+          "primary_focus": "Alleviating pain, distress, humiliation, or trauma experienced by someone.",
+          "exclusionary_clauses": [
+            "Do NOT use if the distress is framed mainly as a byproduct of financial/material loss; use Property/Consent instead.",
+            "Do NOT use if the core reasoning is about rule-breaking, etiquette, or obligations; use Tradition/Expectations or Role-based Responsibility.",
+            "Use only when the comment’s justification foregrounds empathic concern for the harmed person."
+          ],
+          "reasoning_pattern": "Because X’s action caused (or failed to prevent) direct suffering or emotional/physical harm to Y, the judgment is justified.",
+          "examples": [
+            "Primary because the comment emphasizes that the person was emotionally devastated or traumatized by the action.",
+            "Primary because the comment frames the action as cruel, hurtful, or causing unnecessary pain."
+          ]
+        },
+        "safety_risk": {
+          "label": "Safety/Risk Management",
+          "description": "The judgment is primarily justified by risk-taking, danger creation, or failure to follow safety precautions, even if no harm occurred.",
+          "key_principle": "Risk itself is morally salient; people have obligations to prevent foreseeable harm.",
+          "primary_focus": "Precaution, hazard mitigation, physical security, accident prevention.",
+          "exclusionary_clauses": [
+            "Use this even if no harm happened yet; the argument is about unacceptable risk.",
+            "If harm occurred and the comment focuses on the suffering itself, prioritize Care/Harm Prevention.",
+            "Do NOT use for general social rules unrelated to safety; use Tradition/Expectations."
+          ],
+          "reasoning_pattern": "Because X created an unnecessary hazard or ignored safety precautions, the judgment is justified.",
+          "examples": [
+            "Primary because the comment says 'you put people in danger' or 'this could have gone badly' even without an accident.",
+            "Primary because the reasoning emphasizes negligence, recklessness, or foreseeable risk."
+          ]
+        },
+        "fairness_reciprocity": {
+          "label": "Fairness/Reciprocity",
+          "description": "The judgment is primarily justified by proportionality, equity, or reciprocal treatment (fair share, equal standards, tit-for-tat).",
+          "key_principle": "People should share burdens/benefits fairly and treat others as they themselves are treated.",
+          "primary_focus": "Equitable distribution, proportional response, reciprocal obligations.",
+          "exclusionary_clauses": [
+            "Do NOT use for etiquette-only violations; use Tradition/Expectations.",
+            "Use only when the reasoning compares contributions, shares, or standards between parties.",
+            "If the argument is about explicit role duties (tenant/employee/co-parent), consider Role-based Responsibility."
+          ],
+          "reasoning_pattern": "Because X took more than their fair share (or failed to reciprocate proportionally), the judgment is justified.",
+          "examples": [
+            "Primary because the comment argues 'you didn’t do your share' or 'why should they carry all the burden?'",
+            "Primary because the comment justifies a response as 'only fair' given prior treatment."
+          ]
+        },
+        "autonomy_boundaries": {
+          "label": "Autonomy/Boundaries",
+          "description": "The judgment is primarily justified by violation of personal sovereignty: controlling behavior, unwanted interference, privacy invasion, or boundary crossing (non-material).",
+          "key_principle": "Individuals have the right to make personal choices and maintain personal boundaries.",
+          "primary_focus": "Privacy, consent to personal interference, freedom of choice, personal space (non-property).",
+          "exclusionary_clauses": [
+            "If the issue centers on using/taking physical property or money, prioritize Property/Consent.",
+            "If the issue is about hierarchy obedience (boss/parent authority), consider Authority/Hierarchy.",
+            "Use this for 'controlling', 'pressuring', 'forcing', 'invading privacy' when not primarily about possessions."
+          ],
+          "reasoning_pattern": "Because X interfered with Y’s personal choice or crossed a personal boundary, the judgment is justified.",
+          "examples": [
+            "Primary because the comment emphasizes 'you don’t get to decide for them' or 'that’s their private life'.",
+            "Primary because the reasoning focuses on coercion, manipulation, or lack of respect for autonomy."
+          ]
+        },
+        "property_consent": {
+          "label": "Property/Consent",
+          "description": "The judgment is primarily justified by violations involving ownership, money, physical possessions, or bodily access without permission.",
+          "key_principle": "People have rights over their possessions, finances, and bodily access; consent is required.",
+          "primary_focus": "Ownership, permission, boundaries around possessions/money/body access.",
+          "exclusionary_clauses": [
+            "If the comment’s core concern is about money/stealing/using belongings without permission, this is primary even if it also caused distress.",
+            "If the issue is mainly non-physical privacy/control, consider Autonomy/Boundaries.",
+            "If the reasoning focuses on fairness of sharing rather than permission, consider Fairness/Reciprocity."
+          ],
+          "reasoning_pattern": "Because X used/took/touched Y’s property (or body) without explicit permission, the judgment is justified.",
+          "examples": [
+            "Primary because the comment emphasizes 'it’s not yours to take/use' or 'you didn’t have consent'.",
+            "Primary because the key justification is theft, unauthorized access, or misuse of possessions/funds."
+          ]
+        },
+        "honesty_communication": {
+          "label": "Honesty/Communication",
+          "description": "The judgment is primarily justified by deception, withholding key information, dishonesty, or failure of transparent communication.",
+          "key_principle": "Truthfulness and transparent communication are morally required for trust and informed decisions.",
+          "primary_focus": "Truth-telling, disclosure, trust via information integrity.",
+          "exclusionary_clauses": [
+            "Even if lying was intended to protect feelings, still use Honesty/Communication unless the comment explicitly centers the protection as the moral core (then consider Care/Harm).",
+            "Do NOT use when the core issue is loyalty/betrayal to an in-group; use Relational Loyalty.",
+            "Do NOT use for norm violations unrelated to truth; use Tradition/Expectations."
+          ],
+          "reasoning_pattern": "Because X deceived, withheld important information, or failed to communicate honestly, the judgment is justified.",
+          "examples": [
+            "Primary because the comment frames the wrong as lying, hiding, or misleading someone.",
+            "Primary because the reasoning focuses on informed consent, transparency, and broken trust via deception."
+          ]
+        },
+        "role_obligation": {
+          "label": "Role-based Responsibility",
+          "description": "The judgment is primarily justified by duties tied to a specific functional role (tenant/roommate/employee/co-parent) rather than emotion-based loyalty.",
+          "key_principle": "Roles carry non-emotional obligations; failure to meet them justifies moral blame/praise.",
+          "primary_focus": "Contractual, legal, procedural, or functional duties implied by roles.",
+          "exclusionary_clauses": [
+            "Do NOT use for 'standing by a friend/partner' as an emotional bond; use Relational Loyalty.",
+            "If the argument is mostly about fairness of sharing burdens without role framing, consider Fairness/Reciprocity.",
+            "If the argument hinges on the emotional bond or 'standing by someone', use Loyalty. If it hinges on a functional duty (e.g., providing food, paying rent), use Role.",
+            "Use when the comment explicitly invokes role language (e.g., 'as an employee/tenant/parent you should...')."
+          ],
+          "reasoning_pattern": "Because X occupies role R, X has a duty to do Z; violating that duty justifies the judgment.",
+          "examples": [
+            "Primary because the comment says 'you’re the roommate; you’re responsible for your part'.",
+            "Primary because the reasoning centers obligations of the role rather than personal feelings."
+          ]
+        },
+        "loyalty_betrayal": {
+          "label": "Relational Loyalty",
+          "description": "The judgment is primarily justified by betrayal of trust or failure to stand by an in-group member (family/partner/close friend).",
+          "key_principle": "Close relationships impose loyalty expectations; betrayal is morally salient.",
+          "primary_focus": "Faithfulness, trust, siding with loved ones, protecting the bond.",
+          "exclusionary_clauses": [
+            "Do NOT use if the justification is mainly about truthfulness; use Honesty/Communication.",
+            "Do NOT use if the conflict is mainly about role duty (work/tenant); use Role-based Responsibility.",
+            "Prioritize this when the core complaint is 'you chose outsiders over your family/friend/partner' or 'you betrayed them'."
+          ],
+          "reasoning_pattern": "Because X failed to stand by Y (a close relation) or acted in a way that betrays the relationship bond, the judgment is justified.",
+          "examples": [
+            "Primary because the comment emphasizes betrayal, disloyalty, or 'you should have had their back'.",
+            "Primary because the moral core is protecting the relationship bond over external considerations."
+          ]
+        },
+        "authority_hierarchy": {
+          "label": "Authority/Hierarchy",
+          "description": "The judgment is primarily justified by respect or disrespect toward legitimate authority or hierarchical roles (boss/parent/teacher/official leader).",
+          "key_principle": "Legitimate authority deserves deference; undermining it is morally relevant.",
+          "primary_focus": "Deference, obedience, respect for rank and leadership structures.",
+          "exclusionary_clauses": [
+            "Use ONLY when explicit hierarchy is invoked (boss/parent/teacher).",
+            "Do NOT use for traffic rules, etiquette, or general social coordination; use Tradition/Expectations.",
+            "If the core issue is role duty rather than deference, consider Role-based Responsibility."
+          ],
+          "reasoning_pattern": "Because X failed to respect or obey Y’s legitimate authority within a hierarchy, the judgment is justified.",
+          "examples": [
+            "Primary because the comment frames the wrong as disrespecting a parent/boss/teacher’s authority.",
+            "Primary because the reasoning centers on insubordination or undermining leadership."
+          ]
+        },
+        "tradition_expectations": {
+          "label": "Tradition/Social Conventions",
+          "description": "The judgment is primarily justified by violating widely shared social conventions, etiquette, or coordination norms ('the way things are done').",
+          "key_principle": "Shared norms enable coordination and mutual respect; violating them is morally salient when no more specific principle dominates.",
+          "primary_focus": "Etiquette, cultural expectations, informal social rules, coordination systems.",
+          "exclusionary_clauses": [
+            "Use as a catch-all only when no more specific warrant (property, honesty, fairness, role duty, etc.) better captures the justification.",
+            "If the comment invokes a specific role duty, prefer Role-based Responsibility.",
+            "If the norm is explicitly safety-related, prefer Safety/Risk Management."
+          ],
+          "reasoning_pattern": "Because X violated a commonly accepted social convention or cultural expectation, the judgment is justified.",
+          "examples": [
+            "Primary because the comment centers on etiquette (e.g., weddings, queuing, hosting manners) as the main justification.",
+            "Primary because the argument is about breaking an informal coordination rule rather than harming someone directly."
+          ]
+        }
+      },
+      "prioritization_rules": [
+        "Pivot Test: If removing a warrant from the argument would plausibly flip the commenter’s judgment (YTA/NTA), that warrant is likely the Primary Warrant.",
+        "Concession Rule: Clauses introduced by 'but', 'however', 'regardless of', or 'even if' often contain the Primary Warrant that overrides secondary considerations.",
+        "Specificity Rule: Prefer more specific warrants over broader ones when both apply (e.g., Property/Consent over Autonomy/Boundaries when unauthorized use of possessions/money is central; Role-based Responsibility over Tradition/Expectations when an explicit role duty is invoked; Safety/Risk Management over Tradition when the norm is fundamentally about hazard prevention).",
+        "Text-Groundedness Rule: Select the warrant most directly supported by explicit justificatory language in the comment, not by scenario stereotypes."
+      ],
+      "decision_protocol": {
+        "input": [
+          "comment_text",
+          "known_stance (if provided by the benchmark item)"
+        ],
+        "steps": [
+          "Step 0: Identify the evidence cited by the commenter. Is it a consequence (harm/benefit) or a violation of a rule? Map this to the bridge.",
+          "Step 1: Identify the explicit stance signal(s) in the comment (judgment outcome).",
+          "Step 2: Highlight justificatory spans: sentences/clauses that explain WHY the stance holds.",
+          "Step 3: Map each highlighted span to at most one candidate warrant using exclusionary clauses.",
+          "Step 4: Choose the Primary Warrant using prioritization rules (Pivot + Concession + Specificity).",
+          "Step 5: If two warrants remain tied, select the one that is (a) most explicitly stated and (b) most directly linked to the stance (terminal justification).",
+          "Step 6: If the comment is underspecified (no clear justificatory span), mark as Indeterminate/Exclude (handled by dataset filtering, not forced labeling)."
+        ],
+        "anti_bias_guards": [
+          "Do not choose based on option order, rhetorical intensity, or how common the warrant is globally.",
+          "Do not infer warrants from scenario associations not explicitly endorsed by the comment.",
+          "Prefer warrants supported by explicit normative language (should, wrong, unfair, disrespectful, entitled, etc.)."
+        ]
+      }
+    }
+  }
+  

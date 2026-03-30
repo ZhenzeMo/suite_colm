@@ -1,0 +1,1900 @@
+{
+  "user_id": "u_WasWawa",
+  "username": "WasWawa",
+  "comment_count": 41,
+  "topic_count": 41,
+  "account_created_utc": null,
+  "account_created_iso": null,
+  "user_karma": null,
+  "avg_comment_length": 156.7,
+  "total_words": 6426,
+  "comment_frequency_monthly": null,
+  "subreddits_commented": [
+    "AmItheAsshole"
+  ],
+  "time_range": {
+    "first_comment_utc": 1744554023.0,
+    "first_comment_iso": "2025-04-13T10:20:23Z",
+    "last_comment_utc": 1772213976,
+    "last_comment_iso": "2026-02-27T12:39:36Z"
+  },
+  "topics": [
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1jxpoob",
+      "post_title": "AITA for making my daughter wear a dress to a party",
+      "scenario_description": "I have a daughter 15f who usually prefers dressing casual and generally doesn't like wearing skirts and dresses. I don't really have a problem with this usually as long as it's appropriate.\n\nRecently my daughter wanted to go to her best freinds sweet 16. I had no problem with this obviously I thought she already picked out something nice to dress in. But when she was about to go she was in literal sweatpants with a t shirt. \n\nI don't have a problem with her wearing that normally but not to a birthday party especially her best freinds sweet 16 party. She said it's what she liked wearing but I said no way she was not attending the party in that.\n\nShe has a nice blur drees a cousin gifted her a few months ago she never wore it through. I asked her to put it on because it would look good on her and she could match with her freind.\n\nShe refused for a minute until I told her if she didn't wear it just this once I'd start making her dress more feminine from now on. She ultimately agreed and wore the dress and had a lot of fun at the party. Apparently her freind really liked the dress too.\n\nBut my husband thinks I went too far so AITA?",
+      "post_created_utc": 1744487180.0,
+      "post_created_iso": "2025-04-12T15:46:20Z",
+      "post_flair": "Asshole",
+      "comment_id": "mmwdq42",
+      "comment_text": "YTA. \n\nMom -- is that you?\n\nI was that child. I was overweight, uncomfortable in my own skin, and most comfortable in jeans and a flannel shirt. I was always clean and respectable, but not a girly girl. I had four brothers FFS, you're not going to get girl the girl out of that. \n\nMy mom and I fought tooth and nail about wardrobe for years. She refused to allow me to wear jeans, particularly to school. \n\nIt wasn't until 6th grade girls were allowed to wear pants to school at all, and even then, no jeans. A year later, that restriction was removed. \n\nShe would make me wear dresses to the first day of school, and the kids tormented me because it was what she picked out, not what I liked. \n\nFinally, she agreed I could wear jeans one day a week. I chose Fridays. I realized after a while that with five kids, a dog, a cat, and a husband who traveled for a living, she wasn't paying close attention so I could sneak in jeans on Mondays too cuz she had figured that would be my once a week jeans's thing and by Friday she had forgotten that I worn them on Monday. Yes, she paid that close attention to what I was wearing. \n\nWhen I was 18 we left New England and moved to California. I worked as a temp for quite a few years, and I wore jeans to work because I worked in a warehouse where it was cold and dirty. I ended up going into tech support, where there were times I was checking cabling under people's desks. One does not wear skirts and heels for this.\n\nI would get comments about how I was dressing for work. She did not understand how casual things were in California and what I did for a living. \n\nI am now 65 years old. I am about to retire completely. Guess what I wear all the time just for comfort (and likely Petty revenge)? \n\nLet your daughter be herself. If you keep trying to force a square peg into a round hole, you're not going to like what happens, and you're going to end up with an estranged child who doesn't know who she is.\n\nLove her for who she is, not what you want her to be. You have an image in your head of how 15-year-old girls should look. Get rid of it. You can stop this now. \n\nI don't disagree that sweats to a sweet 16 is inappropriate, but it's a hard lesson that she needs to learn for herself;  you would have been more effective had you issued her a warning and let her make her own mistake. \n\nFor the record, mom and I get along fine, she's 94, and I'm there for her. Our relationship evolved, but it only took 40 years and two bouts of therapy on my part. \n\nSpare yourself, learn from my experience.",
+      "comment_created_utc": 1744554023.0,
+      "comment_time_iso": "2025-04-13T10:20:23Z",
+      "comment_length": 2547,
+      "comment_length_words": 495,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1jxpoob/aita_for_making_my_daughter_wear_a_dress_to_a/mmwdq42/",
+      "stance_label": "YTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "care_harm",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1kaelw0",
+      "post_title": "AITA for letting my sister hold my baby against our mother's wishes?",
+      "scenario_description": "I (29M) have a newborn baby. My 9 year old sister - whom we'll call Kylie for privacy purposes, has been *so* excited to be an aunt for the first time. \n\n\nKylie has a physical disability, she struggles with fine motor tasks - and has a slight tremor in her hands when holding objects. Because of this, our mother stated that she did not want Kylie to hold the baby - ever. She kept saying how K's \"hands can't be trusted\" and that it would be best if she just looked at the baby. \n\n\nBut K was so excited to meet her new niece that I decided it was worth trying. With some assistance from me, she was able to hold her without issue. When our mother saw it happening, she was not happy. She said that it was irresponsible of me and repeated that Kylie's \"hands can't be trusted\" around the baby. She started talking about how when she says \"no\" as a parent, I need to respect that. \n\n\n\nAITA for letting my sister hold my baby, against our mother's wishes? ",
+      "post_created_utc": 1745897771.0,
+      "post_created_iso": "2025-04-28T23:36:11Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "mpxtved",
+      "comment_text": "NTA, but your mom sure is! If you dwell on your child's shortcomings, they're going to believe you! Build your sister up, help her get past what her mother is putting in her head or she'll never believe in herself. \n\n63 years ago today, my baby brother was born. It was the day before my third birthday.\n\nI vividly remember mom coming home from the hospital, and they sat me on the sofa, they put a pillow in my lap and cushioned every which way, and let me hold him. I don't think he was a month old the first time this happened. \n\nIf you situate your sister in a safe position with guidance, there is absolutely no reason she can't hold her nibling.",
+      "comment_created_utc": 1746060192,
+      "comment_time_iso": "2025-04-30T20:43:12Z",
+      "comment_length": 651,
+      "comment_length_words": 124,
+      "comment_score": 2,
+      "comment_permalink": "/r/AmItheAsshole/comments/1kaelw0/aita_for_letting_my_sister_hold_my_baby_against/mpxtved/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "care_harm",
+        "role_obligation",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "care_harm",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "care_harm",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1kejaif",
+      "post_title": "AITA for refusing to attend my sister’s wedding—or give a gift—after she invited my ex but excluded my wife?",
+      "scenario_description": "My (32F) sister (28F) is getting married in a few weeks. She recently sent out the official invites, and while I was included, my wife (30F) was not.\n\nWhen I asked about it, my sister told me the decision was intentional. She said she wants her wedding to be “as peaceful as possible” and that she doesn’t feel comfortable having my wife there. For context: my wife and sister have never gotten along particularly well. There’s no major incident or explosive history—just mutual dislike and a few passive-aggressive exchanges over the years. That said, my wife has always been respectful at family gatherings, and I’ve never seen her act out.\n\nWhat makes this worse, though, is that my ex-girlfriend (whom I dated for four years before meeting my wife) is invited. My sister remained friends with her after we broke up six years ago. I didn’t love it, but I never made an issue of it. Still, it’s incredibly hurtful to see that my sister would rather include someone from my past—someone I haven’t spoken to in years—over the person I’ve chosen to build a life with.\n\nI told my sister that I wasn’t comfortable attending under these circumstances and that I wouldn’t be sending a wedding gift either. I said if she doesn’t recognize my wife as part of the family, then she shouldn’t expect me to play along with the celebration as if everything is fine. She accused me of being petty and trying to punish her for “setting boundaries.” My parents have since called to say I’m overreacting and that I should “just go and keep the peace.”\n\nTo me, this feels like more than a disagreement—it feels like a fundamental lack of respect for my marriage. But the family seems to think I’m making it about me.\n\nAITA for refusing to attend the wedding and declining to give a gift because of how my wife has been treated?\n\n",
+      "post_created_utc": 1746363746,
+      "post_created_iso": "2025-05-04T09:02:26Z",
+      "post_flair": "Not the A-hole POO Mode",
+      "comment_id": "mqjq9g2",
+      "comment_text": "NTA. You can hardly be accused of choosing family over friends when that's exactly what your sister is doing. \n\nI would suggest you attend the ceremony and then leave. There's no need to hang around for the reception, drop off a small token gift for the simple reason that that way no one can ever accuse you of not giving them a gift. \n\nIt's sad that your sister doesn't even think that your wife and your ex couldn't be civil for the short time you would be together in a crowd that size.",
+      "comment_created_utc": 1746371674,
+      "comment_time_iso": "2025-05-04T11:14:34Z",
+      "comment_length": 490,
+      "comment_length_words": 93,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1kejaif/aita_for_refusing_to_attend_my_sisters_weddingor/mqjq9g2/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "tradition_expectations",
+        "loyalty_betrayal"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1khfhq4",
+      "post_title": "AITA for requiring my son to cook as part of carrying his weight in the house?",
+      "scenario_description": "Throwaway account for privacy reasons. \n\nI am a single mom of two teens. My son, Jake (fake name), graduated from high school last year. This post is about a running issue that we’re having. He approved this post. \n\nMy background: I’m in a professional career in which I average around 50 hrs/wk. In my area, my salary makes us middle class. \n\nHis background. Jake is a great son and brother, and I honestly couldn’t ask for better - even with the ongoing issue we’ve been having. He’s trustworthy, very respectful, and a good communicator, and he always steps up when asked. All in all, I say (and he agrees), that we have a great relationship and our family functions well as a unit. Jake’s father is unable to provide guidance on life issues.\n\nSince he graduated, Jake has had some trouble finding his way. He enrolled at the local college, but he was uninterested in the courses and overwhelmed at the sudden responsibility of dictating his own life path. We agreed that he could drop his course load with the understanding that he could always restart at a later date. \n\nJake had a PT job that he quit around the same time. I understood the reasons behind it and had no issue with this decision either. \n\nBecause Jake is not in school or working, he has a lot of free time. \n\nMy view: While I have been strongly encouraging Jake to get a job or figure out a trade to get into, I have not yet made this a requirement of living at home. Although he’s an adult, he’s a young one, and I’ve been giving him time to sort things out. It’s only been a few months of him being in this position. However, I feel that a person who is not working or in school bears extra responsibility at home as they are the ones who have the most time. I have required that along with keeping up with his own chores (laundry, bedroom, trash, etc), Jake should perform additional duties on a daily basis to keep the house  running smoothly (cleaning floors more regularly, dusting, etc). Recently, I upped this requirement to include cooking dinner every night. The meals are not required to be fancy. These can be quick meals (think burgers and fries, spaghetti, chicken and rice, etc), can be cooked earlier in the day so that it frees his evenings, and can also be made in bulk for leftovers. \n\nHis view: The cleaning is fine but having to cook feels like a punishment because he HATES cooking. While he’s not working or in school, he does have multiple issues that he’s juggling and is under a lot of stress in his life for varying reasons. He’s not just lying around the house all day. He devotes a lot of time to his hobbies (with my support) which benefit his physical and mental well-being. Also, anything extra I ask of him, he does without complaint. He feels that I’m being unreasonable in my request, my views are outdated (because I was born before 2000 *dropshead*), I never compromise, and I can only have things my way. \n\nAITA for requiring Jake to cook as part of carrying his weight in the household? ",
+      "post_created_utc": 1746671583,
+      "post_created_iso": "2025-05-07T22:33:03Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "mr79nag",
+      "comment_text": "NTA, but consider this: if he's not working, and he's not in school, try telling him that he is now more of a roommate. \n\nUse this change in status to finesse him into adulthood. \n\nCooking dinner every night is likely as overwhelming for him as his course load was. Start him off with once or twice a week being responsible for dinner. \n\nAlso, make sure he knows how to cook! And not just burgers and fries; if he's going to be out in the world, he needs to know how to do basic nutritional cooking. It's not too much to ask for him to crack, open a cookbook and try something new, or look on YouTube for inspiration. He might find he doesn't hate cooking as much as he thinks he does.\n\nAnd, as others have said, even if he does hate cooking, there are a lot of things I don't enjoy doing, but it's life in the real world.\n\nWhen I was his age, my father had a rule that if you were not a full-time student, you were working full-time and you were paying rent. If you didn't like that rule, we knew where the door was. \n\nYou're not doing him any favors by letting him skate. Adulthood is scary, but it's something we all have to go through. He needs to learn that he has to pull his weight. If he's not bringing in money, you should not have to lift a finger to clean that house. That alone should be incentive enough to get him out of the house enough to find a job. And if he doesn't like that job, he keeps that job long enough to find another one that he likes better. \n\nWelcome to adulthood!",
+      "comment_created_utc": 1746684510,
+      "comment_time_iso": "2025-05-08T02:08:30Z",
+      "comment_length": 1495,
+      "comment_length_words": 292,
+      "comment_score": 2,
+      "comment_permalink": "/r/AmItheAsshole/comments/1khfhq4/aita_for_requiring_my_son_to_cook_as_part_of/mr79nag/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "fairness_reciprocity",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "fairness_reciprocity"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1korkdz",
+      "post_title": "AITA for telling my co-worker her kids are none of my business?",
+      "scenario_description": "School holidays are coming up and I have a co-worker panicking, as she left it too late to book vacation slots. My company had a rule where no more than 3 workers can leave at the same time for vacation. I already filled in my vacation slot months ago as I haven’t taken any in nearly a year. I’m single and unmarried and in my 30s. Company HR told my co-worker that her only way to get her vacation is to get one of us who already had our vacation time approved to ‘trade with her’. And considering out of the three of us whose vacations were approved, I am the only female, guess who my co-worker approached for the trade?\n\nShe tried explaining (gently at first) that her kids (6 and 4 years of age apparently) were really looking forward to going to Disneyland and that everything is already booked, and if I can give up my vacation spot to her. I told her no, as I too already had my vacation booked (it’s a solo vacation but I’m not about to tell her that). She got real pushy and kept on trying to insist I give her my vacation spot, saying that “My kids would be so disappointed”. I blew up at her after the fourth or fifth time, telling her that her “kids being disappointed” is none of my business.\n\nI didn’t exactly keep my voice down so at least half the office heard, and my co-worker turned red and left. One of my co-workers (25M) who sat to my side who had heard the entire conversation later told me that while he get where I’m coming from, I could be a lot gentler, and “I didn’t get how hard mothers get it”. AITA?",
+      "post_created_utc": 1747484108,
+      "post_created_iso": "2025-05-17T08:15:08Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "msxilm6",
+      "comment_text": "NTA. If you had raised your voice the way you did the first time she had asked, that would make you TA However, she wouldn't let it go. \n\nKudos for keeping your plan secret. It's nobody else's business. \n\nHer child care issues are not your problem. \n\nI get the kids get sick, I get that they have inflexible vacation schedules. However, it is incredibly annoying to those of us who chose not to reproduce to have to cover for the parents who did choose to reproduce when they have to stay home with their children, whether they're on vacation or sick. \n\nSometimes I wonder whether they're aware of when they take a day to take care of a sick child or a doctor appointment, they're doubling my work load.",
+      "comment_created_utc": 1747561902,
+      "comment_time_iso": "2025-05-18T05:51:42Z",
+      "comment_length": 703,
+      "comment_length_words": 129,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1korkdz/aita_for_telling_my_coworker_her_kids_are_none_of/msxilm6/",
+      "stance_label": "NTA",
+      "post_label": "Work",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "property_consent",
+        "fairness_reciprocity",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "fairness_reciprocity"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1kux0e4",
+      "post_title": "AITA for asking my partner stop telling me to “lower your volume.”",
+      "scenario_description": "Sometimes when I get excited about a topic, I naturally start speaking louder than usual. Not shouting, just louder than normal conversation level. The thing is, I don’t realize I’m doing it in the moment.\n\nWhen this happens, my partner will often interrupt me mid-sentence to ask me to lower my volume. I don’t think they mean it in a rude way, and I understand that they probably just want the conversation to stay at a comfortable volume. That’s fair.\n\nBut every time it happens, I feel demoralised, and a little self conscious. I lose my enthusiasm and no longer feel like talking about the thing I was excited about. Even if they don’t mean it harshly, it still feels dismissive and discouraging. I’ve tried to explain how it makes me feel, but they still keep interrupting me.\n\nAm I the asshole for wanting them to stop interrupting me like that? Or do I just need to accept that I should keep my volume in check? Even if it’s hard because I don’t always realize when I’m doing it?",
+      "post_created_utc": 1748158902,
+      "post_created_iso": "2025-05-25T03:41:42Z",
+      "post_flair": "No A-holes here",
+      "comment_id": "mu6z9op",
+      "comment_text": "NTA. Some people just have naturally loud voices. I work with a lady like that, and we all have earbuds or headphones. \n\nMy youngest brother is also one of these people. His volume was set too loud at birth. We haven't found the setting yet to turn him down, and he's in his '60s, so we've given into it. We love him.\n\nThis is not an excuse, but it's a possible explanation. I know you said it's only when you get excited, so here's what I suggest: work out a signal with your partner. Nothing verbal, maybe just a hand signal to his ear that will tell you that you're getting loud. \n\nYou both acknowledged that he wants to hear what you have to say, and he's not telling you to shut up. It's good that you're communicating about it. \n\nI'm just wondering if perhaps a nonverbal signal might be more effective.",
+      "comment_created_utc": 1748190104,
+      "comment_time_iso": "2025-05-25T12:21:44Z",
+      "comment_length": 809,
+      "comment_length_words": 152,
+      "comment_score": -2,
+      "comment_permalink": "/r/AmItheAsshole/comments/1kux0e4/aita_for_asking_my_partner_stop_telling_me_to/mu6z9op/",
+      "stance_label": "NTA",
+      "post_label": "Romance",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "care_harm",
+        "autonomy_boundaries",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "care_harm",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "care_harm",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1l7oh9a",
+      "post_title": "AITA for not waking my girlfriend up for her job interview because she “said not to”?",
+      "scenario_description": "So, my (27M) girlfriend (25F) has been job hunting for months after getting laid off. She finally landed an interview for a position she was *really* excited about — good pay, remote, and in her field. The interview was scheduled for 9 a.m. yesterday.\n\nThe night before, she was super anxious and had trouble sleeping. Around midnight, she said, “Ugh, I’m so tired… if I don’t wake up, just let me sleep. Whatever happens, happens.” I asked, “Are you sure?” and she half-muttered “Yeah, seriously, don’t wake me.”\n\nI was confused but took her at her word. I assumed she was just venting and would wake up on her own. I even set my own alarm *just in case*, but when it went off at 8:30, she was still asleep. I remembered what she said and decided not to wake her. I figured if it was that important, she would’ve set multiple alarms. (She usually does.)\n\nShe ended up sleeping until 10:15, woke up, realized she missed the interview, and freaked out. She asked why I didn’t wake her and I reminded her what she said. She told me she obviously didn’t *mean* it and that I should’ve known better. Now she’s upset, blaming me for not helping when she needed it.\n\nI feel bad she missed something important, but I also feel like I just respected what she told me to do. AITA?",
+      "post_created_utc": 1749525313,
+      "post_created_iso": "2025-06-09T23:15:13Z",
+      "post_flair": null,
+      "comment_id": "mwyqoov",
+      "comment_text": "NTA. She's old enough to understand that she has to get up in the morning for an interview, and later if she gets it, a job. \n\nOthers have mentioned that she's afraid of being rejected for the job. \n\nI submit that she's afraid of being accepted. \n\nI've been laid off numerous times in my career. It's a vicious cycle. \n\nYou mourn the job you had of course, but then you get used to having all that time off. After all, if you pinch pennies, you can live on unemployment If you have to. \n\nSo then you start to resent any commitment that infringes on this free time. It's really nice, not having to be up at a certain time, sleeping in, staying up late, basically being a kid again. \n\nBut then unemployment benefits run out. Money's tight, you're desperate, and you need that job. You don't want it, but you need it.\n\nYou find yourself living in your childhood land of no responsibility, and you have to go through re-adulting all over again. It's hard, perhaps harder than it was the first time. \n\nFor that reason, I reiterate that she's not afraid of being rejected for the job, she's afraid of getting the job and having to go back to working Monday to Friday 9:00 to 5:00 and having only and having only (gasp) two days off a week!\n\nYou did nothing wrong. You did exactly what she told you to do. That being said, I guarantee she's going to find a way to blame you for it.",
+      "comment_created_utc": 1749531496,
+      "comment_time_iso": "2025-06-10T00:58:16Z",
+      "comment_length": 1374,
+      "comment_length_words": 258,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1l7oh9a/aita_for_not_waking_my_girlfriend_up_for_her_job/mwyqoov/",
+      "stance_label": "NTA",
+      "post_label": "Romance",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "tradition_expectations",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1ljbk7n",
+      "post_title": "AITA for telling my son that I'm not looking for a relationship?",
+      "scenario_description": "I (39F) am a former ballet dancer and am now a choreographer. Ballet has been my passion ever since I was 4 years old. It's my life. I can sacrifice everything in the world if it meant that I get to perform in front of an audience and garner applauses. \n\nWhen I was 20, I stupidly and immaturely got married to my then-boyfriend. We had a son together, and I had to take rest for a few months to let my body heal. However, I realized that living without ballet even for a few days left me incredibly restless and nervous. On top of that, I didn't feel anything towards my son. I didn't feel like a mother should. I had absolutely zero emotional connection to him whatsoever. Thus, I decided to leave. It was not fair to my son that he grows up with a mother who is apathetic towards him. I felt free when I left him. I focused completely on my career, and sent child support every single month. Now, I'm successful both financially and artistically. \n\nAbout a month ago, my son reached out to me and asked me to meet him. I did, and he told me that after I left, his dad met another wonderful man and they raised him together, so that he grew up with two loving dads. I was touched hearing that and was happy he grew up with two loving parents. He then asked me if I wanted a relationship, and I, politely but firmly, said NO. I consider personal relationships of any sort a distraction from my career. He was disappointed, and now his Instagram story is \"Some people are just too vain to see that their actions hurt others too\".\n\nAITA? ",
+      "post_created_utc": 1750772835,
+      "post_created_iso": "2025-06-24T09:47:15Z",
+      "post_flair": null,
+      "comment_id": "mzim81u",
+      "comment_text": "YTA for not even trying to define what kind of relationship you were going to have with them.\n\nDid he say he wanted to move in with you? Did he say he wanted to see you every single week? You didn't even give him a chance to work out what kind of a relationship he wanted. \n\nTo give him the ability to talk to you once a month, send you a Christmas card, it's too much to ask? \n\nI'm an adopted child. It's very difficult acknowledging the fact that your parent rejected you at birth, but then to reject you again!?!?\n\nHe doesn't deserve to have you in his life.",
+      "comment_created_utc": 1750774764,
+      "comment_time_iso": "2025-06-24T10:19:24Z",
+      "comment_length": 561,
+      "comment_length_words": 110,
+      "comment_score": 3,
+      "comment_permalink": "/r/AmItheAsshole/comments/1ljbk7n/aita_for_telling_my_son_that_im_not_looking_for_a/mzim81u/",
+      "stance_label": "YTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "care_harm",
+        "loyalty_betrayal",
+        "autonomy_boundaries",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "care_harm",
+        "loyalty_betrayal"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "care_harm",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1lkye23",
+      "post_title": "AITA for not cooking breakfast for my niece and nephew?",
+      "scenario_description": "My (36, M) sister (34, F) moved into my house about 2 months ago with her 2 kids (7M, 4F) after she ended a really bad relationship\n\nI’ve always been an early-ish riser and like to get up and make myself some breakfast around 7 or 8am. Nothing spectacular, just whatever I felt like that day\n\nWhen my sister moved in, I realized quickly that she liked to sleep in. Some days she was up as late as 1pm…I gave her the benefit of the doubt since I knew how hard her break up was for her \n\n\nSince my sister slept so late daily, she wouldn’t get up and take care of her kids. I got into a routine with my niece and nephew that basically whatever I cooked myself for breakfast, I’d make enough for them as well until the other morning \n\nI woke up and had an urge to make huevos rancheros. The kids immediately started complaining that they didn’t want that and wanted something different\n\nI was nice and ended up making them pancakes since it’s not their fault that their mom is really struggling \n\nThe next morning, I was making breakfast potatoes and eggs but all I heard was “we don’t want that. We want something different” so again, I obliged…finally after 3 mornings of my unwanted food critics getting a separate meal, I finally told them “I’m no longer cooking 2 different meals for breakfast. If you don’t like what I’m making, go ask your mom to get up and do it”\n\nSo, they went upstairs to wake her up, but she still didn’t come downstairs until after 1pm. The kids immediately started complaining that I “refused to feed them” and my sister was PISSED\n\nShe started in about how they need to be fed by a certain time and a bunch of other things that she said to try and intentionally hurt me\n\nI snapped and told her “look I know you’re depressed, but wake up and take care of your fu**ing kids instead of expecting me to do it”\n\nShe got quiet after that and is still giving me the cold shoulder, but I know she’s expecting me to apologize.\n\nSorry this was long winded, but let me have it. AITA?\n\n",
+      "post_created_utc": 1750939455,
+      "post_created_iso": "2025-06-26T08:04:15Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "mzvopvg",
+      "comment_text": "NTA. We kids were informed early on that my mother was not a short order cook. \n\nYou eat what she fixed or you didn't eat. Plain and simple. It wasn't abuse, we survived. \n\nTeach the kids how to make toast, Pop-Tarts, whatever. If your sister does not like her kids eating that, she needs to get up and take care of them. \n\nI'm not discounting her depression, it is what it is, but she's a mother and she needs to suck it up. \n\nIf she moved in hoping that you were going to be a surrogate parent to her children, you need to straighten that out now.",
+      "comment_created_utc": 1750944627,
+      "comment_time_iso": "2025-06-26T09:30:27Z",
+      "comment_length": 549,
+      "comment_length_words": 107,
+      "comment_score": 5,
+      "comment_permalink": "/r/AmItheAsshole/comments/1lkye23/aita_for_not_cooking_breakfast_for_my_niece_and/mzvopvg/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "autonomy_boundaries",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1lyh0k9",
+      "post_title": "AITA for not helping my pregnant sister clean up kitty litter?",
+      "scenario_description": "For added context, I (36F) don't have any pets because I don't want them and the added responsibility of having them - going for walks, medical needs or general trips to vet, grooming them, and cleaning up after their business, plus I am also away for work often. She (34F) knows this. She recently got pregnant, and as you know pregnant women should limit their intereaction with litter. We get along fairly well I would say. She and her bf (lives 40mins away) lightheartedly said that \"It's your (my) responsibility to clean the kitty litter now\". We live a block away from each other and I want to help and provide support as best as I can, just not with that. I feel like a shitty sister, but I also don't want to do it. AITA?\n\n",
+      "post_created_utc": 1752371330,
+      "post_created_iso": "2025-07-12T21:48:50Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "n2ultw5",
+      "comment_text": "NTA. She did not conceive this child on her own; the father should be perfectly capable of scooping a litter box. \n\nI was blessed when I lived with my cousin and her husband. We shared a house for 4 years, and we both had cats. \n\nI helped with the cooking and cleaning, and he took care of all the cat stuff. \n\nYes, he would leave the dishes in the sink from time to time, and yes, it bugged me, but for 4 years, I did not have to clean the litter box once.\n\nHe was, and is, a great guy!",
+      "comment_created_utc": 1752383213,
+      "comment_time_iso": "2025-07-13T01:06:53Z",
+      "comment_length": 487,
+      "comment_length_words": 100,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1lyh0k9/aita_for_not_helping_my_pregnant_sister_clean_up/n2ultw5/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "fairness_reciprocity"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "fairness_reciprocity"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1lzk851",
+      "post_title": "AITA for refusing to let my roommate’s girlfriend move into our apartment without paying rent?",
+      "scenario_description": "So, I 25 years old live in a 2-bedroom apartment with my roommate, Jake 26. We’ve been friends since college and split rent, utilities, and chores evenly. Our lease is month-to-month, and we’ve always had bills get paid, place stays clean, no drama. About two months ago, Jake started dating Sarah 24, and she’s been spending a lot of time at our place. Like, a lot. She’s here 5-6 nights a week, uses our kitchen, bathroom, Netflix, you name it. I didn’t mind at first because she’s nice enough, and I figured it was just the honeymoon phase. Last week, Jake sat me down and said Sarah’s lease is ending soon, and he wants her to move in with us. I was caught off guard but asked how we’d handle rent and bills. He said Sarah’s between jobs and can’t afford to chip in right now, but she’d “help out with chores” really?. I pointed out that we already split chores evenly, and adding a third person means more mess, more utilities, and more strain on our small space. I suggested Sarah pay a third of the rent and utilities once she’s employed, but Jake got defensive and said I was being petty and unsupportive, He argued that since she’s his girlfriend, it’s not like she’s a stranger, and I should be cool with it because we’re all friends here.\n\nHere’s my side: I get that Sarah’s in a tough spot, and I don’t want to seem heartless. I’ve been unemployed before, and it sucks. But our apartment is tiny shared bathroom, small kitchen, thin walls. Having a third person full-time would change the vibe, and I don’t think it’s fair for me to subsidize her living here. I pay $800/month for my half of the rent, plus utilities, and I budget carefully. If Sarah moves in without contributing, I’m essentially covering part of her costs, which doesn’t sit right with me. I also feel like Jake’s dismissing my concerns by framing it as me being unfriendly rather than practical.\nJake’s side, as he explained it: He says Sarah’s only temporarily jobless and will make it up later. He thinks I’m overreacting because she’s not some random tenant but his girlfriend, and I should trust she won’t mooch forever. He also said I’m making a big deal out of nothing since she’s already here most of the time anyway. He pointed out that she’s cooked dinner for us a couple of times, so she’s contributing in her own way. The conversation ended with Jake saying I’m being unreasonable and that I’m making Sarah feel unwelcome. Now things are tense, and Sarah’s been avoiding me when she’s over. I don’t want to ruin my friendship with Jake, but I also don’t think I should have to pay for someone else to live here. AITA for putting my foot down?",
+      "post_created_utc": 1752493550,
+      "post_created_iso": "2025-07-14T07:45:50Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "n338g3a",
+      "comment_text": "NTA. I shared an apartment with a couple for 4 years. Everything was split three ways despite the fact that they shared a bedroom. \n\nWe got along great, and it was actually for 2 years on, 2 years off, and then two more years. It didn't hurt that they were family. \n\nWhen I was out of work, I still paid my rent and share of bills. If I needed help covering my bills and expenses, I would have asked, and they would have helped. But it is out of line to assume that they would have to cover for me because I didn't have work. Rather, it was added incentive for me to find work quickly. \n\nBeware of offers for her to do all of the chores/ housekeeping. That's a dangerous hole to fall into, because she won't crawl out of it. If your roommate wants a kept woman, he has to pay to keep her, not you.",
+      "comment_created_utc": 1752506280,
+      "comment_time_iso": "2025-07-14T11:18:00Z",
+      "comment_length": 797,
+      "comment_length_words": 158,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1lzk851/aita_for_refusing_to_let_my_roommates_girlfriend/n338g3a/",
+      "stance_label": "NTA",
+      "post_label": "Friendship",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "fairness_reciprocity",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "fairness_reciprocity",
+        "property_consent",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "fairness_reciprocity",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1m4zea2",
+      "post_title": "AITA for accepting money from a coworker?",
+      "scenario_description": "I (17F) work in a small town thrift shop, and brought in a leftover slice of tiramisu that i had made for a baby shower the other day. One of my coworkers, let’s call him J (22M) had a bite and sang his praises, telling me he’d do anything for some more. My other coworker, who we’ll call T (31F) also became interested in the prospect of obtaining some of my tiramisu. \n\nI jokingly asked J if he would pay money for it- to my surprise he said yes, and T agreed. T then very eagerly commissioned me for 2 pints of tiramisu for $20, and promptly paid me in cash. \n\nToday though, when I got the materials out to make it, my mother (48F) asked me what I was doing, and I responded that I took a commission from a coworker to make tiramisu. My mother then asked me if I had already received the money, to which i responded truthfully and said that i had. I was then told to give my coworker her money back, and to just give her small single serve cups (4oz) for free instead. \n\nI contested this, saying that I had already told my coworker she’d be receiving two pints of tiramisu, and that I would not underdeliever, especially since she had already paid me. But, my mother said (in her words) that I shouldn’t be taking money from other people, and that the only reason T was giving me money for the tiramisu was that she felt bad for having me make something for her.\n\nI don’t think it’s wrong for me to accept money from T, especially for such a labor intensive dessert like tiramisu. I make everything from scratch (except the marscarpone for obvious reasons), so I don’t think it’s unfair or shameful of me to ask a decent price of my goods, especially when T was so eager to support my efforts.\n\nTL;DR \nTook a tiramisu commission from my coworker, my mother wants me to return her money and give her a significantly smaller portion than what she paid for. ",
+      "post_created_utc": 1753043807,
+      "post_created_iso": "2025-07-20T16:36:47Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "n48t74d",
+      "comment_text": "NTA. It was a business transaction. You were doing private catering, and you were being paid. \n\nTell your mother it's none of her concern, and provide what you promised. \n\nAfter finishing baking school, and figuring out I couldn't live as a baker, I took an office job. One of the takeaways from school was a really good recipe for chocolate chip cookies. \n\nThey were really good, and one of the perks was that you could make them ahead of time, scoop them onto a cookie sheet, freeze them, and take them out one at a time and bake them fresh. \n\nI had brought some to work one day and two of my co-workers asked me to make some for them. \n\nI quoted them about a dollar a cookie, and they paid me, and I provided them. \n\nUnfortunately, they figured out that they could do it just as easily themselves, and that was the last of that. \n\nIngredients aren't cheap, and your time is not free. Your mother is wrong.",
+      "comment_created_utc": 1753051368,
+      "comment_time_iso": "2025-07-20T18:42:48Z",
+      "comment_length": 908,
+      "comment_length_words": 169,
+      "comment_score": 3,
+      "comment_permalink": "/r/AmItheAsshole/comments/1m4zea2/aita_for_accepting_money_from_a_coworker/n48t74d/",
+      "stance_label": "NTA",
+      "post_label": "Work",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "property_consent",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "property_consent",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1mkvhow",
+      "post_title": "AITA for not telling my sister the real reason I didn’t want to help her on a trip and causing a fight with my mom?",
+      "scenario_description": "I (19F) have 2 sisters, Rue and Becky. Both have 4 kids each, all under the age of 8. For context: I babysit Becky’s kids for free all the time; at least once a week or every other week, whether she has a party, a wedding, or just wants a date night. I’ve never complained about it.\n\nA few days ago, Becky asked if I wanted to go to New Jersey with her because she “needed to buy some things.” I said no, and she hung up on me.\n\nYesterday, she asked again. I said no again, and that’s when she told me the real reason: she wanted to go with her friend, but when she told her husband, he said he didn’t feel comfortable with her taking all 4 kids to New Jersey alone. It’s a 2+ hour drive each way.\n\nShe said I could either go with her to help with the kids or watch them at her house. I chose to just watch them at her house. (For the record, I didn’t tell her this, but the last time I went to New Jersey with her it was absolute HELL; I can elaborate in the comments if needed.)\n\nShe agreed, so I went to tell my mom. My mom immediately flipped out, saying Becky takes advantage of people, that it’s not my responsibility if her husband doesn’t want her alone with the kids, and that if it’s an issue, he should take off work or take the kids with him. My mom then told me I wasn’t “allowed” to watch them out of principle.\n\nI called Becky and told her I couldn’t do it. She called me an asshole because she’s been wanting to go to New Jersey for a while and I “knew” that.\n\nI thought that was the end of it, but it blew up. Turns out my mom was also going to New Jersey that day and called Becky to see if she wanted anything. Becky hung up on her, which made my mom furious. Becky later called Rue to vent, but Rue said she didn’t blame me at all because she remembers how bad the last trip was.\n\nNow Becky is saying I started this whole mess because I told Mom, which caused a fight between them. She says she doesn’t ask for much and that if she can’t rely on her sisters, who can she rely on?\n\nI feel like this got blown way out of proportion. Maybe I should have just told her the truth from the start about why I didn’t want to go. Now my other two sisters are also saying I’m an asshole (not for saying no) but for not just telling Becky the truth from the start and “dragging Mom into it.”",
+      "post_created_utc": 1754660374,
+      "post_created_iso": "2025-08-08T09:39:34Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "n7lsx8d",
+      "comment_text": "NTA. But may I take a moment to say how nice it was to finally see a Reddit post where the mother backed you up? \n\nAlmost every other post. I see talking about stuff like this is where the mom tells you that family helps family, and to give the mom a break. \n\nYou owe your mom a hug. \n\nOh yeah, what everybody else said about standing up for yourself. That too.",
+      "comment_created_utc": 1754662766,
+      "comment_time_iso": "2025-08-08T10:19:26Z",
+      "comment_length": 361,
+      "comment_length_words": 72,
+      "comment_score": 76,
+      "comment_permalink": "/r/AmItheAsshole/comments/1mkvhow/aita_for_not_telling_my_sister_the_real_reason_i/n7lsx8d/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1mkxthu",
+      "post_title": "AITA for working in the morning instead of helping with the baby",
+      "scenario_description": "Our nighttime routine has been very 50/50 with me feeding the baby a bottle while my wife pumps. Sometimes the times don't align when baby wakes vs when mama wakes. This morning my wife got up at 4 am to pump, I got up at 5 am when the baby woke from sleep and fed the baby. When the baby was back in his crib, I found that my wife was still awake. We both tried to fall asleep but only got about 30 minutes each before it was time to get up for the day. She is on Mat leave, I am not on pat leave, but I work from home which allows me to help out whenever I can which has been a huge blessing. But this also puts a large amount a stress over my head as I try to balance a new job that requires me to learn a new skill, and learning how to be a new parent and trying to help my wife WHENEVER I can. \n\nSo when my wife was in tears this morning over exhaustion, I told her I would take care of everything until she woke up and go back to sleep. I had to practically beg her to go back to sleep because she just wouldn't do it, coming up with every reason in the book to get up. Finally I got her to agree but I think all those reasons still floated in her head and she couldn't sleep so after an hour she woke up. Then it was time to feed the baby so she nursed him at nine and put him down for a nap around 10.30 while I \"went to work\". When she came to my office for the monitor, I told her I would watch and soothe when he wakes and told her to go and sit and have coffee. She immediately started crying and asking why I didn't come and take him from her after nursing so she could have breakfast and coffee. And she said that when I grabbed a snack she thought I was going to come and take him after, but I was working so I went back to my office. I really was working too, and I told her that, but she posits that If I were willing to play hookie from work for an hour or two while she slept I should have thought to come and take over the baby too. And yeah, I see her point for sure and I'm sitting here wishing I did. But I was also working, trying to balance the two priorities and keep things afloat. I apologized and said I should have thought about it but I'm still definitely in the doghouse on this one and I'm left feeling a little short changed. While I was attmepting to do a few nice and helpful things around my work schedule, I didn't think about the thing she was thinking I should do. I had conflicting priorities and I should have checked in, but if she was sitting there expecting something we hadn't communicated about, aren't we both at fault for the lack of communication? At the end of the day I get that the mom is always right in these instances but I felt a little damned if I do damned if I don't when I'm working on a deadline on a project and she was awake so I figured I could rush to prioritize that.",
+      "post_created_utc": 1754665870,
+      "post_created_iso": "2025-08-08T11:11:10Z",
+      "post_flair": "No A-holes here",
+      "comment_id": "n7migam",
+      "comment_text": "NTA. \n\nIn the immortal words of Strother Martin, \"What we have here is a failure to communicate\".\n\nYou're both exhausted. She's postpartum. You're starting a new job. \n\nTry to find a Time when the baby's asleep, nobody's, emotional, and everybody's calm. \n\nTalk to her about what her needs are and explain to her that you need more direct instructions. Men and women communicate dramatically differently. Women tend to anticipate, and think ahead and what others want. It's what makes women women. \n\nMen need a little more direction. \n\nThe phrase I like to use is, \"I'm good, but I'm not that good\".\n\nIt goes back to kindergarten to some extent. You both need to learn to use your words, say please and thank you.\n\nCongratulations on all the new changes in your lives. Be patient with yourselves, give yourselves time to get your feet under you. You're going to be okay. \n\nCounseling might not be a terrible idea. Sometimes a third party can give you a perspective you hadn't thought of.",
+      "comment_created_utc": 1754670034,
+      "comment_time_iso": "2025-08-08T12:20:34Z",
+      "comment_length": 987,
+      "comment_length_words": 170,
+      "comment_score": 7,
+      "comment_permalink": "/r/AmItheAsshole/comments/1mkxthu/aita_for_working_in_the_morning_instead_of/n7migam/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "care_harm",
+        "role_obligation",
+        "honesty_communication",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "care_harm",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "care_harm",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1mxl5wu",
+      "post_title": "AITA for fencing off my property",
+      "scenario_description": "We bought the house we’re currently in about 6 months ago and we recently has a surveyor come to our property to figure out exactly where our property line is so we can put up a fence. The old fence was kind of a hodgepodge of different types of fences that were falling apart. We wanted to have something more uniform and you know, not falling apart. While the surveyor was here, the old lady living next door (noseybody) came out to see what we were doing and we let her know we were planning on putting up a fence. \n\nHere’s where it goes left but I don’t understand what the issue is. She said that we weren’t allowed to put up a fence and when we asked why, she said her dog was used to having all of not only her backyard but our backyard too because the old owners were okay with it. I don’t have anything against the dog but I also want a fence around our house because we have small children and it makes me feel better to know that we have a fence because there is a small forresty area and a small creek behind our property. \n\nShe started ranting and raving about how young people today are selfish and that I’m an animal hater because I don’t want her dog to have space to roam. I told her that it had nothing to do with her and everything to do with us. She’s now trying to rally other people in the neighborhood to try and pressure us into not putting up a fence because her dog is “grandfathered in”. Not sure into what but reddit AITA? \n[Non-HOA neighborhood thank goodness] ",
+      "post_created_utc": 1755903424,
+      "post_created_iso": "2025-08-22T18:57:04Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "na67lj5",
+      "comment_text": "NTA. If you really want to be pedantic, show her your contract for the house and ask her to point out the term that prevents a fence from being put up to allow her to let her dog roam in your yard. \n\nJust because the previous owner allowed it doesn't mean you have to. \n\nNot for nothing, but I suspect if your kids started playing in her yard, she would definitely have something to say about it. \n\nYou're doing the right thing.",
+      "comment_created_utc": 1755910534,
+      "comment_time_iso": "2025-08-22T20:55:34Z",
+      "comment_length": 428,
+      "comment_length_words": 82,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1mxl5wu/aita_for_fencing_off_my_property/na67lj5/",
+      "stance_label": "NTA",
+      "post_label": "Society",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "autonomy_boundaries",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "property_consent",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "property_consent",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1o190mj",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "My(21) grandpa(77) gave me a credit card, in the use of which I have a very fixed pattern. Each Saturday, I have lunch at a mall. I switch the restaurants almost every week, but always have my Saturday coffee at the same place. It’s a Japanese bakery. To be more precise, a patisserie.\n\nEventually, my grandpa got curious about me making the same amount of payment at the same shop every week. He became even more curious after finding out what I drink there, since I used to hate coffee. Asked me to take him there so he could know if it’s really that good.\n\nHe said it’s ’pretty good’ and then decided to order Strawberry shortcake. Now his doctor had warned him that his blood sugar level was too high. I reminded him of this, but he reminded me he’s made changes to his diet and has been jogging. He also said an occasional cheat day won’t hurt. So I didn’t say anything further. \n\nLater went home, where my grandma saw the receipt, told him and then called me to tell me off. She said I should have tried harder to discourage him, knowing how important health is for elderly people like them.",
+      "post_created_utc": 1759926333,
+      "post_created_iso": "2025-10-08T08:25:33Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nij7gpw",
+      "comment_text": "NTA. He's a grown man. You expressed concern once, your job was done as far as your grandma was concerned. \n\nThis situation reminds may have a line from The West Wing, where there is a situation where some soldiers had been kidnapped and were potentially being tortured. \n\nThe Jed asks if negotiations would help them live longer, or would it only seem longer. \n\nAt 77, he's had a good long life. Let him enjoy the strawberry shortcake. \n\nI used to steal my Dad and take him out for coffee and sweets. I don't know whether Mom knew or not, and I know that she only wanted him to be healthy to live longer, but I had to ask the same question, was he going to live longer, or was it only going to seem longer? \n\nI for one would rather enjoy my life and die a little sooner than take all of these precautions to live along and miserable life.",
+      "comment_created_utc": 1759977393,
+      "comment_time_iso": "2025-10-08T22:36:33Z",
+      "comment_length": 839,
+      "comment_length_words": 160,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1o190mj/aita_for_not_objecting_more_to_my_grandpa_having/nij7gpw/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "care_harm",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1occux6",
+      "post_title": "AITA for having my friends toddler take her first steps while her parents weren't there?",
+      "scenario_description": "So I'm friends with this guy that I've known since kindergarten. He got married some years ago and now him and his wife have a little baby girl and she's currently at toddler age. I come over often enough that I'm used to seeing the little bugger and she's great. I don't have any other little kids from family or anything in my life so it's been great seeing a little human grow. \n\nEvery once in a blue moon they ask me to watch her for a few hours while my friend and his wife get some date time or whatver they need to do. So I was hanging out with her and I know that they've been trying to get her to take her first steps. I read about a trick where if you make them hold something then they will walk without holding onto a surface. So I gave her a toy and filmed it and it worked! \n\nI sent the video to them and my friend didn't care, he was just happy but his wife was pissed! She was mad at me that they weren't there for that big moment. I don't have the type of relationsbio with her where I can have a deep 1 on 1 with her but I talked to my friend about it and he's not upset with me but his wife still is. She thinks I robbed her if a key moment. I did het it on film but I get what she's saying.\n\n I had no malicious intent but was I the AH for getting the toddler to take those first steps? I hi estoy didn't think the trick would work but it did. ",
+      "post_created_utc": 1761053039,
+      "post_created_iso": "2025-10-21T09:23:59Z",
+      "post_flair": "Asshole",
+      "comment_id": "nko1txl",
+      "comment_text": "YTA. This was a critical first for their child, not for you. \n\nIf the baby had taken her first steps on her own with you, that's wonderful, but don't tell them about it. Sometimes these little white lies keep the peace and while they may make you feel better for getting it off your chest, it does nothing more than cause them angst. \n\nContrary to what other replies have been to this post, I would never knock the child down or do anything to discourage them, I just would keep it to myself. They're going to walk on their own soon enough, let the parents have that.",
+      "comment_created_utc": 1761080288,
+      "comment_time_iso": "2025-10-21T16:58:08Z",
+      "comment_length": 567,
+      "comment_length_words": 107,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1occux6/aita_for_having_my_friends_toddler_take_her_first/nko1txl/",
+      "stance_label": "YTA",
+      "post_label": "Friendship",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "care_harm",
+        "role_obligation",
+        "tradition_expectations",
+        "honesty_communication",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1oi9nce",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "So I (19F) live at home with my family and my older sister (23). I’m a full-time uni student and work casually, so my income isn’t that high. My sister, on the other hand, works full-time, earns well, and still lives at home too.\n\nHere’s the issue: I always buy pads for the house. I usually stock up with multiple boxes at once because I have an irregular period (every 2 months or so - give or take), while my sister gets hers regularly every month. But every single time my period finally comes, the pads are gone because she’s used them all, and she never says a word when they’re running low.\n\nNeither of us drive. I’m usually the one who does the small grocery runs during the week (my mum drives me to the store to pick up eggs, milk, bread, etc.) The big grocery hauls happen on weekends, and my mum handles those. My point is my sister has so much time to tell my mum or I to buy more pads or at least tell someone we’re low, but she never does- I literally went to the grocery store this afternoon to buy eggs and she never said a thing, knowing I was going to the store. \n\nWhen my period ends, I always restock to avoid last-minute emergencies. But because my period is irregular, I never know exactly when it’s coming; and honestly, who’s going to remember to check the pad stock every two months?? I don’t use any tracking apps either bc they never work for me, so I just assume my sister (who actually has regular periods) would notice and say something when we’re running low. How am I supposed to remember that there’s literally one pad left in the cupboard when I’m not on my period and she is. \n\nThis time I got really annoyed and told her she should start buying her own pads since she’s the one using them the most. We got into an argument and she said we share everything and she’s just forgetful but this is SO frustrating. \n\nI’m tired of being the one who is always restocking something she uses constantly without even a heads-up.\n\nAnd now it’s the middle of the night, I’m on the last pad in the cupboard, and I have no idea what I’m going to do tomorrow morning. I can’t drive, everyone in the house will be off to work, and no one will have time to grab any before leaving. I can’t ask my dad or my brother to buy pads because we live in a pretty conservative household, I can only ask them to drive me if I say we need groceries - and that has to wait until the end of the working day bc they won’t be home until then. \n\nSo… AITA for telling my sister she should start buying her own pads or at least take responsibility for replacing what she uses???\n\n\nEdit: did not expect sm traction but just to clear things up - I am embarrassed to ask for pads being brought up in a conservative house but this morning I did text my brother while he was out and he stopped by the house to give me a box of pads which was real sweet. Additionally, I’m learning to drive but where I live you need X amount of hours before you can get your license and I’m limited in gaining those hours bc they need to be supervised by people who hold full licenses - my parents are too tired after work to let me drive places and we don’t go out much, hence most of my build up has been trips to grocery stores etc which means I have some amount but not enough too get my license yet. Second, bc she started working full time since last year, my sister is often too tired to build up her hours, she works IRONICALLY, at a pharmacy and could literally just get packs on the way home but again, says she “forgets”. I do stock up but the main issue is bc of my irregular cycle my sister consistently using pads means by the time mine will come around there’s nothing left. Yes my periods are delayed but they are also very heavy and painful, I hadn’t been diagnosed w anything formally (believe me I’ve complained to several doctors since I was 14) but so far nothing has come about. \n\nTo everyone suggesting why I don’t stock up on every grocery trip - my mother went through menopause several years ago, so my sister and I are the only ones using period products and their expensive, I only really stock up when needed like now. And yeah I could stock up on standard grocery runs but tbh I just always forget 😭😭😭 I will defs just be hiding packs in my room for emergencies like this now but I’m just SO frustrated because this happens every other period and I’m already in pain and exhausted I don’t need to be bleeding everywhere too.",
+      "post_created_utc": 1761658803,
+      "post_created_iso": "2025-10-28T09:40:03Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nluqynd",
+      "comment_text": "NTA. Is there a reason you can't drive? Do you live somewhere where it's not allowed? \n\nI'm not being sarcastic, there are some places in the world where that is the case. \n\nThat being said, are tampons not an option? A menstrual cup?, Something your sister can't use? \n\nIf not, hide yours. Lock them up if you have to. \n\nYour sister's 23. At what point is she going to be responsible for her own supplies?",
+      "comment_created_utc": 1761669319,
+      "comment_time_iso": "2025-10-28T12:35:19Z",
+      "comment_length": 406,
+      "comment_length_words": 75,
+      "comment_score": -1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1oi9nce/aita_for_telling_my_sister_to_get_her_own_pads/nluqynd/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "property_consent",
+        "autonomy_boundaries",
+        "fairness_reciprocity",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "property_consent"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1oq25fv",
+      "post_title": "AITA for not making my DIL coffee and telling her I am not a barista",
+      "scenario_description": "My son and dil ( Emily) are staying in our home probably for the next month due to water damage in there home. The company is fixing the damage but  the flooring was damaged so it’s not very livable right now.\n\nThey have only been here less than a week and I am having an issue. I work nights I come back home around 6:30 am and then go to bed. My husband is usually up so I make him a coffee/ breakfast before I turn in. \n\nJust something  like to do, more quality time before he heads to work. I asked my son and Emily if they would also like coffee or breakfast before they go to work. \n\nThey said no to food but yes to coffee. That was easy and I just made two extra cups. I asked them to tell me if they want me to change how to make their coffee. I thought they would just tell me, use this cream or if they had a preference on blend.\n\nEmily texted me last night and said she left instructions for the coffee. \n\nThis morning I came home to very detail instructions how to make a complex coffee. It was like a Starbucks drink, she wanted foamed milk on top, different syrups, a specific coffee bean ( ground fresh…) and a difffernt brewing method ( we have a drip coffee machine) most of the stuff was one the counter.\n\nI decided I wasn’t doing that and just made the normal coffee. Emily wasn’t happy and we got into a argument before she went to work\n\nI basically told her I am not a Starbucks barrista and I am not going all that. She told me I shouldn’t have offered in the first place if I wouldn’t make the coffee to her liking. We left on a sour note.\n\nI have been getting texts from my son about not being hospitable so I am having trouble sleeping at the moment \n\n\nShould I just make the coffee\n\n",
+      "post_created_utc": 1762443463,
+      "post_created_iso": "2025-11-06T10:37:43Z",
+      "post_flair": "Not the A-hole POO Mode",
+      "comment_id": "nnhoy68",
+      "comment_text": "NTA. I would be inclined to try something like leaving a note that says, \"I think you might have misunderstood my offer. I was making a cup of coffee for my husband and offered to make the same for you and my son. I have neither the time or inclination to make such a detailed drink, and suspect you will find any effort I make to be lacking. For that reason, if you do not want what I'm making our husbands for morning coffee, feel free to make your own. I apologize if I was unclear in my original offer\".",
+      "comment_created_utc": 1762465140,
+      "comment_time_iso": "2025-11-06T16:39:00Z",
+      "comment_length": 507,
+      "comment_length_words": 100,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1oq25fv/aita_for_not_making_my_dil_coffee_and_telling_her/nnhoy68/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "honesty_communication",
+        "tradition_expectations",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "honesty_communication"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1p4p5y9",
+      "post_title": "AITA for taking one of my nieces out when she was grounded",
+      "scenario_description": "I am 29F, me and my niece (Molly, 14) are very similar especially when it comes to food, we cannot stand seafood, doesn't matter what it is or how it's made, we can't stand it.\n\nRecently Molly and her twin sister (Hannah, 14) won a championship at school, and their paternal grandparents offered to take them out to celebrate. Normally they go to a local steakhouse but Hannah has been wanting to go to this seafood restaurant (unlike Molly she LOVES seafood especially sushi and crab). This caused problems with Molly and she didn't even want to go, their mother forced her saying the restaurant probably had other things besides seafood to eat.\n\nApparently Molly straight refused to order anything even the non seafood options loudly saying it didn't matter because everything smelled like whale sperm and she won't be able to eat anything. Obviously this embarrassed everyone else and I was called to come get her and that she was grounded for making a scene.\n\nI still took her to the steakhouse to eat which pissed her mother because I was rewarding bad behavior, and was apparently supposed to take her home to starve or feed her whatever was in the house. I asked her did Molly not help win the championship? Because why was Hannah being the only one rewarded for it. She tried to say the restaurant was for everyone and that there were safe options for Molly. I disagree because the smell almost took me out just walking in to grab her, I can't imagine how miserable it was for her.\n\nMolly is refusing to speak to anyone except for me and her dad who is currently out of state, claiming her grandparents and mother don't care about her or if she gets sick from their nasty food, she has asked the school to stop pairing her with Hannah and that she wants to be separate from her sister which is upsetting Hannah.",
+      "post_created_utc": 1763910992,
+      "post_created_iso": "2025-11-23T10:16:32Z",
+      "post_flair": "Asshole",
+      "comment_id": "nqe9r86",
+      "comment_text": "YTA. I'm the cool aunt too, but you've got to respect the parents. \n\nYour niece's feelings were understandable for being unhappy about where they ended up going, but if they always go to where she wants to go, she's got to learn to suck it up when she doesn't get what she wants. \n\nHer comment about whale sperm was entirely inappropriate and ruined the meal for everyone. \n\nI get it. She was 14 and pissed. However, she deserved to be grounded because of what she said and how she behaved. \n\nYou rewarded poor behavior. Molly will not respect you for it. She'll like you for it, don't get me wrong, but she won't respect you. \n\nYou also burned a bridge with Molly's parents. They learned that they can't trust you to back them up. \n\nThere is no better time for Molly to have learned this lesson. While it's not your job to parent her, it is your job to back up her parents and help make her a better person. \n\nYour best bet would have been to take her home and let her have something she wanted to eat there. It also wouldn't hurt to have a conversation about expressing feelings, especially in public. \n\nIf you want to continue to have a good relationship with this part of your family, an apology is definitely in order, not only for Molly's parents and Hannah, but also to Molly for not backing up her parents. She will not understand now and will likely be just as pissed at you, but someday she will understand. \n\nI think Molly is on the right track in one respect: separate her from her sister in activities. Sometimes twins don't have to be joined at the hip. She's fighting for her own identity, and she's going to need to have that at some point in life. She seems ready.",
+      "comment_created_utc": 1763922320,
+      "comment_time_iso": "2025-11-23T13:25:20Z",
+      "comment_length": 1681,
+      "comment_length_words": 312,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1p4p5y9/aita_for_taking_one_of_my_nieces_out_when_she_was/nqe9r86/",
+      "stance_label": "YTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "tradition_expectations",
+        "care_harm",
+        "loyalty_betrayal",
+        "authority_hierarchy"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1p9id5t",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "I’m 31 male. My wife is 29F, my ex wife is 31F. My ex wife and I have a 12 year old son together. He was with us for the first half of his Thanksgiving break, he lives with his mom. I’m not sure of the exact (edit here for spelling) percentage of time split but he lives with her primarily. \n\nMy son asked me if he could take a poster he had in his room (a Harry Potter poster) to his mom’s for his room. I said yes, because I didn’t think it was that big of a deal since I bought the poster at Five Below. It was cheap. \n\nHe took it home, and later I found out my wife was mad that I said he could take it since “we” bought it, and “we” should decide what leaves our home. She’s really mad about this poster leaving the home and called me an asshole for not talking to her about it because it’s “not the first thing I’ve let go to her house” and I can’t really understand why and she won’t elaborate more than I should have asked her first. \n\nThe only other thing I can think of he’s ever taken there that hasn’t returned was he asked to take an old toy of his to his little brother at his mom’s and I said it was fine. \n\nThat toy (a stuffed animal) in question his mom actually bought him when he was younger, it just somehow ended up staying at my house when we split up, so I didn’t see an issue with that either. \n\nAm I missing something here? Am I an asshole for not talking to my wife about this? ",
+      "post_created_utc": 1764399582,
+      "post_created_iso": "2025-11-29T01:59:42Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nrep4ei",
+      "comment_text": "NTA. Once a gift is given, it belongs to the recipient. \n\nThe poster and the stuffy belong to your son. Only he decides where it should be. \n\nNow if he was taking something that didn't belong to him but was a part of your house over to his mother's house, that's a horse of a different color.",
+      "comment_created_utc": 1764437474,
+      "comment_time_iso": "2025-11-29T12:31:14Z",
+      "comment_length": 292,
+      "comment_length_words": 57,
+      "comment_score": 2,
+      "comment_permalink": "/r/AmItheAsshole/comments/1p9id5t/aita_for_letting_my_son_take_a_poster_to_his_moms/nrep4ei/",
+      "stance_label": "NTA",
+      "post_label": "Romance",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "role_obligation",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "property_consent",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "property_consent",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1pb23qa",
+      "post_title": "AITA for refusing to pay to have my friend's house cleaned?",
+      "scenario_description": "I had to quickly come down to the city where I grew up due to the death of a close family member. It was a pretty spur-of-the-moment occurrence and I had to drop things rather quickly. I informed one of my friends and they offered to put me up for a few days. I said that would be great, but told them I'd have my dogs with me so totally understood if they wouldn't be able to. The friend said it would be fine and they were more than happy to host me. \n\nFor context, my dogs are not badly trained by any standard, but they are both large breed dogs (a lab and a GSD) so of course can be a bit \"much\" for many non-dog owners. I am aware of this and that's why I usually don't bring them to peoples houses. \n\nI made the 5 hour drive down and my friend came out to greet me. When unpacking the car I let the dogs out and immediately they went off to toilet (since it was a long trip). My lab went into the bushes to pee but the GSD began to pee in the middle of the front porch (don't ask me why, but she much prefers peeing on hard surfaces) and my friend immediately freaked out. I was a bit confused and apologised but it's outside so didn't get why she was so freaked out. \n\nThe dogs were fine the entire stay. They are non-eventful inside. They let me know when they need out and I clean up the poo straight away. I keep them under good supervision. \n\nAt the end of the trip, my friend sent me a text saying \"Hey, as you'd know the house is quite messy because of the dogs, and I'm going to hire a cleaner. Would you mind paying me for that?\" I was a bit taken aback. The dogs had zero accidents inside. Didn't break anything. I asked what she meant, and she explained that there was dog hair everywhere. \n\nThe thing is, they are shedding dogs. I know that. If she'd asked me to vacuum up after them I would have. But she didn't. I also don't think a deep clean would be necessary. A quick vacuum of the carpets, couch, bed, etc. would be more than enough to remove any trace. I don't know what to do. I didn't ask to stay with her - she offered. I told her about my dogs, and she was fine with that. ",
+      "post_created_utc": 1764559669,
+      "post_created_iso": "2025-11-30T22:27:49Z",
+      "post_flair": "Asshole",
+      "comment_id": "nroobw9",
+      "comment_text": "YTA. You're likely nose-blind, but dogs have a very definite smell. Chances are pretty good. That's what host is referring to. \n\nCough up the money if this relationship means anything to you and apologize for not offering ahead of time. \n\nNext time, board your dogs or offer to clean the house before you leave.",
+      "comment_created_utc": 1764581583,
+      "comment_time_iso": "2025-12-01T04:33:03Z",
+      "comment_length": 311,
+      "comment_length_words": 54,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1pb23qa/aita_for_refusing_to_pay_to_have_my_friends_house/nroobw9/",
+      "stance_label": "YTA",
+      "post_label": "Friendship",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "property_consent",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "property_consent",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1pt4k5q",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "I (25F) was supposed to go to my parents house for Christmas morning breakfast. My sister (32F), her husband, and her 3 kids were also going. My brother (29M) is married with 4 kids. My parents are hosting (Mom 50, Dad 51).\nOver the past year, my sister in laws family moved from about 12 hours away to 10 minutes away. Like…everyone. Parents, siblings, grandparents all of them. Since then my brother and his wife spend a ton of time with her family. We constantly hear about dinners, birthdays, and random get togethers at their house with her side.\n\nMeanwhile my side of the family (me, my sister, and sometimes even my parents) are not really talked to much anymore. We’re rarely invited to things with the kids or plan get togethers anymore. And genuinely the last time me and my fiancé stopped by their house. We both got the very distinct sense we were unwelcome and almost intruding. I thought maybe I was being a really sensitive until my fiancé brought it up as soon as we got in the car. \nI want to be clear I don’t resent her family time at all. I’m glad she has support, especially since she’s a SAHM and the rest of us work. We’ve helped plenty in the past with emergencies, watching the kids, even taken PTO to help, set up for birthday parties, etc. but it’s been really helpful for them to have family who’s more available.\nRecently all of his in laws were invited to his stepdaughter’s baptism, down to her siblings spouses.None of us were invited. We weren’t even told it was happening. This wasn’t a one off thing. just the most recent thing where me and my sister are hurt and unlike every time I’ve talked to my sister about things like this I cannot excuse it away.\nWe get left on delivered a lot when try to plan things with their kids and them. We’ve ask about doing things with the kids like trick or treating together, kid friendly New Year’s plan for after Christmas stuff, etc and get 0 response. Just straight left on delivered by both of them .\nI asked SEVEN TIMES for the kids’ Christmas lists and after a few lukewarm responses never got them. It honestly feels like we have to beg to be included, and it’s exhausting. And very different than how all of us have ever been for the past 10 years.\n\nI privately told my brother that the lack of involvement this year has been painful and that it makes it feel like our side of the family isn’t really wanted in his or kids’ lives anymore. \n\nHis response was polite but tbh a super weird basically non answer. With no apology or like explanation as to why we were not invited whatsoever.\nWhen I talked to my mom about it, she told my sister and me that we were being ridiculous and needed to “get over it,” and said stuff like “that’s just how he is.” And “he just doesn’t think about stuff like that”\nAt that point, my sister and I were just done. We decided we don’t want to go to Christmas morning this year. We just don’t feel like showing up and potentially having hurt feeling spilling over in front of the kids. \n* edited for clarity after a bunch of similar comments\n\n\nSo AITA for canceling Christmas?",
+      "post_created_utc": 1766422515,
+      "post_created_iso": "2025-12-22T11:55:15Z",
+      "post_flair": "No A-holes here",
+      "comment_id": "nvemocb",
+      "comment_text": "You're punishing your parents for what your brother is doing. \n\nYTA. There are other ways to make your point. \n\nThe bottom line is if they wanted you there, you would have been invited. You said yourself that you didn't feel welcome when you were there, why would you want to go again? \n\nCreate your own traditions. Go to your parents because they deserve to have their kids there. You'll turn around one day and I'll be gone. \n\n Then leave. Come up with something for you and your sister to do by yourselves. Create your own celebration. Go to a movie. Go have coffee, go back to your house and snuggle up with movies and hot cocoa. Make that a tradition with just you and your sister.\n\nWin-win. \n\nIf your brother says anything, tell him outside of earshot of your parents, that he clearly has his family traditions of celebrating with his in-laws. You and your sister have yours. \n\nRemove all emotion. Don't get angry, don't use tears, don't try to guilt him. You don't know that he isn't already in a difficult spot. Don't make it worse. \n\nAlso, bring a little something for the kids. Just a stocking stuffer. If you get taken to task for it, tell them that you asked repeatedly for their Christmas lists and you had no idea what they wanted because their parents did not respond. But don't go empty-handed, and don't punish the children for what their parents are doing. \n\nIn essence, take the high road.",
+      "comment_created_utc": 1766426472,
+      "comment_time_iso": "2025-12-22T13:01:12Z",
+      "comment_length": 1408,
+      "comment_length_words": 252,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1pt4k5q/aita_for_canceling_christmas_after_a_family_fight/nvemocb/",
+      "stance_label": "YTA",
+      "post_label": "Family",
+      "controversial": true,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "tradition_expectations",
+        "role_obligation",
+        "care_harm",
+        "property_consent",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "tradition_expectations",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "tradition_expectations",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1pttwdj",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "Throwaway account because I’m pretty sure some of mt family scroll on reddit.\n\nI (15f) really like baking and cooking food. Most of the time im making everyone little treats to try or im cooking dinner for my family from our background and it’s sort of one of mt love languages, often I’ll bring food to family events because my aunts and uncles are busy all the time and have little time to make food before they host parties and stuff and because im not working yet i have more time to make all this fun stuff.\n\nSo on Christmas we typically open presents at home then all have lunch and /or dinner at someone’s house. But this year my mum said we wouldn’t all be together. was a bit upset but was like alright, that’s fine with me. then my aunt calls me and asks me if I’ve thought of what food im making for christmas night. I asked what she meant and she told me she’s having a party and mt mum promised I’d make food for everyone. I didn’t really have a problem with that, as I said I love cooking and it was early notice. So I was just like “oh I’ll get ready at this time, and then I’ll have time to make the food”. She asked why I’d be getting ready.\n\nShe said it’s an “adult” party, but then I asked for more info and she mentioned cousins my age were going. So I was kind of upset and asked why I was the only one not going. She said my mum thinks I  just not mature enough for a late party. I told her it honestly just sounded like an excuse. then I hung up. I went to my mum and she didn’t see a problem with me not going,  but I told her there’s no way im putting effort into that if I’m being excluded. I started crying atp and it made my mum angry and she said i was being selfish and acting like a child.\n\nI kept pressing for a proper reason but my mum kept saying “i dont want you going and im your mother so thats that”. My tone was very rude by this point because I was on the verge of tears and my mum said if I don’t make the food they’ll have to order food and I’ll inconviecne everyone. I said “then order it.” and ended the convo. I called my dad and hes saying he’ll come down to where I live and we can drive up to his for christmas so I can be with family that wants me there. So even if I wanted to help now I will be two hour drive away.\n\nBut basically they have no food plans for the party now. I suggested local chicken shops that do delivery, or even buying frozen food from the shops, but they’re saying they don’t wanna do that. While they didn’t want me there, I know everyone was counting on me for food and now from their persepctive im saying no and being selfish because I wanted to spend Christmas with dad. and im usually one to try see both sides but this is really difficult, cus ofc im biased and my feelings are hurt so outside persepctive would be nice. Thank u for any feedback :)  p.s sorry if this is confusing pls feel free to ask like extra things I didn’t mention im incredibly tired rn and may have left some details out.",
+      "post_created_utc": 1766496418,
+      "post_created_iso": "2025-12-23T08:26:58Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nvkt6u6",
+      "comment_text": "NTA. I'm sorry sweetie, but the reason you're reacting like a child is because you're still a child! \n\nIf you want to become a caterer, charge them for the food and your time. I'm actually serious. If it's just within the family, tell them the cost of the food and pay yourself an hourly rate and tell them that your catering services are available. You wouldn't have to worry about certification and regulations this way. Later on, with more success, you could grow this into a pretty impressive business.\n\nAlso, tell your mom that if she's going to book you for an event, she needs to give you plenty of notice. You should not have learned about it from your aunt.\n\nI'm glad you have your dad there to rescue you. Cook for him. He'll love it. \n\nWay to stand up for yourself kiddo!",
+      "comment_created_utc": 1766511519,
+      "comment_time_iso": "2025-12-23T12:38:39Z",
+      "comment_length": 782,
+      "comment_length_words": 144,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1pttwdj/aita_for_refusing_to_cook_for_my_familys/nvkt6u6/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "role_obligation",
+        "fairness_reciprocity",
+        "autonomy_boundaries",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "property_consent",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "property_consent",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1q59k15",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "We moved in together last month. She likes to cook and is good at it, so our original agreement was she would cook and I would do the dishes. That’s fair. \n\nExcept that every single time I did the dishes she would pretty much “check” on my work, like following behind me after I started the load. And sometimes she would unload it and re load it the way she thought it was appropriate. And whenever I was hand washing she always insisted in being there and inspecting everything that wasn’t up to her standard.\n\nSo I finally had enough and told her that I won’t be doing dishes anymore if that’s how things will go. Or I can cook for myself and do my own dishes that she won’t get to touch (she can have her separate dishes). She said she was just trying to be helpful and that I was rude and sort of an AH for what I said and the way I said it.",
+      "post_created_utc": 1767675908,
+      "post_created_iso": "2026-01-06T00:05:08Z",
+      "post_flair": "Not enough info",
+      "comment_id": "nxypd75",
+      "comment_text": "NTA. I think you're absolutely right. \n\nBear with me on this. \n\nWhen I was in high school, my mom got a part-time job two nights a week, from 5:00 to 9:00 p.m. There were five of us kids and my dad. \n\nI was all of 16 years old and the only girl. \n\nMy mom would \"get dinner ready\". She would prepare the meal, put it in the oven, set the oven to turn on, set it to turn off at the appropriate time, and all I had to do was set the table, serve the meal, and clean up the kitchen afterward. \n\nShe would come home about 9:30. Every single night she would find something I missed. \n\nEvery. Single. Night. \n\nI finally reached a point where I would do everything I thought I needed to do. I cleared the table, did the dishes, loaded the dishwasher, and then stood back and asked myself, \" what's she going to b**** about?\"\n\nI didn't clean the sink. Okay, I clean the sink. \n\nStood back again, asked myself the same question. I hadn't swept the floor. \n\nOkay, I swept the floor. \n\nI put the benches back under the table. I made sure the curtains were proper, \n\nFinally, she came home one night, looked around, nodded and said, \"Looks good!\"\n\nI'm not sure it ever happened again. I was really happy when she stopped working there though. I also resolved the issue on my side by finding a job that kept me out at dinner time.\n\nI'm not sure what to tell you about your girlfriend, except to get this resolved before you put a ring on her finger. This is going to be your life. Only you can decide if this is livable for you. \n\nFollow up: Mom's 95, lives on her own, and not long ago while we were talking, she said, \"Sometimes I wish I had spent less time keeping my house clean and more time playing with my children.\"\n\nI agreed with her.",
+      "comment_created_utc": 1767680319,
+      "comment_time_iso": "2026-01-06T01:18:39Z",
+      "comment_length": 1729,
+      "comment_length_words": 333,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1q59k15/aita_for_telling_my_girlfriend_i_wont_do_dishes/nxypd75/",
+      "stance_label": "NTA",
+      "post_label": "Romance",
+      "controversial": true,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "care_harm",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1q5p4jp",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "This happened over the holidays and my wife is still upset with me over it.  Our family went to visit my in-laws for New Year's.  It's about a 3-4 hour drive.  Mostly highway but it takes us through two metro areas with pretty significant traffic.  My wife (37F) gets nervous about driving in traffic so I always drive when we visit her family.  She also tends to get car sick on longer drives and needs to sit in the front seat to help ease it.  She has tried taking Dramamine in the past but she's had an allergic reaction to it so she doesn't take it anymore.\n\nI love my wife with all my heart, but she is not good sitting shotgun.  She makes huge reactions to any change in traffic.  Grabbing the handle, putting her hand on the dash, gasping, telling me to watch out, etc.  It's not like I'm an aggressive or risky driver.  I've never gotten a speeding ticket or been in an accident.  \n\nBut if there's a car a half mile ahead of us that puts on their brakes, she freaks out and acts like we're all about to die.  It's incredibly distracting.  I've talked to her multiple times about how her reactions actually makes it more difficult for me to concentrate on driving but she says she can't control herself because she's nervous in traffic.  \n\nOn the way to her family's place she sat up front with me and traffic was pretty bad.  Lots of slowdowns due to weather conditions and in general just kind of slow going.  But I've been driving in cold weather my whole life and know how to control my speed and give lots of extra space to any surrounding cars.  I understand that you can't control anyone else on the road and that accidents happen, but I do everything in my control to keep my car and the people inside safe.  \n\nThe entire drive my wife was on edge making all the reactions I mentioned.  It's very distracting to have someone next to you doing that sort of thing while driving.  I mentioned this to my wife numerous times on the drive and she always deflected blame at me for the way I was driving.  \n\nWhen we were getting ready to head home, I told my wife she needs to sit in the back and our 14-year-old son will sit up front with me.  I told her it's either that or she drives us home.  She got upset with me and started giving excuses about her car sickness.  I told her to take some Nyquil or something else to help her sleep but she refused and told me I'm being a jerk.\n\nI told her that she can drive then and she refused that too.  Eventually, she reluctantly got in the backseat with our 11-year-old daughter.  The ride home was much easier traffic-wise and my wife sat pretty much silent in the backseat the entire time, pouting.  \n\nWhen we got home she told me that she felt ill the entire drive but didn't say anything because she \"didn't want to make a big deal out of anything.\"  She told me I humiliated her by making her sit in the back and that I should be more considerate of her feelings.  \n\n",
+      "post_created_utc": 1767720929,
+      "post_created_iso": "2026-01-06T12:35:29Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "ny5xg39",
+      "comment_text": "NTA. Does she not realize that her nervousness is causing you to not pay 100% attention to what you're doing, doubling the risk of an accident? \n\nMy best friend, who was also my cousin, was the same way. If I was driving, and, like you, someone a half a mile ahead tapped the brakes, she would suck all the air in the car through her teeth, grab the oh s*** handle, and almost panic every time. \n\nI loved her dearly, but it was exhausting.\n\nWhen her husband drove, there was not enough space between our vehicle and the one in front of us for her to be comfortable. Everybody was too close. \n\nHas your wife been in an accident? Is this some sort of post-traumatic reaction? Is she like this with others? It might be worth talking to a therapist about.\n\nIt might be worth explaining to your wife that when she reacts like that, you feel like she has no confidence in you as a driver (use\"I\" statements so she can't get defensive) and you feel unsafe because you feel like she doesn't trust you to get you to your destination safely.",
+      "comment_created_utc": 1767772686,
+      "comment_time_iso": "2026-01-07T02:58:06Z",
+      "comment_length": 1031,
+      "comment_length_words": 193,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1q5p4jp/aita_for_making_my_wife_ride_in_the_backseat/ny5xg39/",
+      "stance_label": "NTA",
+      "post_label": "Romance",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "safety_risk",
+        "care_harm",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "safety_risk",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "safety_risk",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1q76cob",
+      "post_title": "AITA for snapping at my uncle after he kept calling me a girl because of my hair?",
+      "scenario_description": "I’m 19M and I have long, curly hair. I’ve been growing it out for a few years and I take care of it. I use conditioner, and I have leave ins and curl creams for when I need a little more styling as well. The brand I use has a little silhouette of a woman on it and is technically \"for\" women.\n\nLast week my girlfriend had a really stressful week, so I cooked her dinner. My parents wouldn't be coming home till late so I set up candles wrote her a card and tried to make it nice.\n\nAs I was setting up my uncle (52) comes into the room. For context, he is bald and divorced, and currently living with us.\n\nHe looked around at the candles and said, “This looks like something a girl would set up.” I didn’t really respond, but he followed it with, “You do a lot of girly stuff for a guy.” He then said \"With all that girly hair stuff too, your really selling it\"\n\nI told him to back off, and he laughed and said, “Relax, don’t be so sensitive.” While I was setting up, he kept making small comments like, “Careful, don’t break a nail,” and, would just randomly talk about the fact I was cooking for her, and I kept telling him he was \"real funny\" and making it clear I was annoyed. It started really getting on my nerves and said \"why the fuck would I take relationship advice from you your divorced, and you can't talk about my hair when your literally fucking bald\"\n\nHe  got all up in my face got pissed immediately and said that I crossed a line bringing up his divorce and that I was being disrespectful, and we both got in each others faces and he eventually left the kitchen. Later my mom talked to me and said she gets why I was upset, but thinks I should apologize because he’s already embarrassed about his situation and I didn’t need to make it personal, and that she didn't want us to have issues and I'm starting to think maybe I crossed a line and went too deep.",
+      "post_created_utc": 1767860459,
+      "post_created_iso": "2026-01-08T03:20:59Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nyeverb",
+      "comment_text": "NTA. Calmly tell him when he does it again, and you and I both know he will, that what he is saying says a lot more about him than it does about you. \n\nIf you feel so inclined, tell him that you are secure in your masculinity, you know how to treat a woman, and if you want any of his advice, you will ask for it. \n\nThen, gray rock him. \n\nHe's behaving like an insecure child. Be the adult. It will drive him crazy and it will be fun to watch.",
+      "comment_created_utc": 1767886139,
+      "comment_time_iso": "2026-01-08T10:28:59Z",
+      "comment_length": 443,
+      "comment_length_words": 92,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1q76cob/aita_for_snapping_at_my_uncle_after_he_kept/nyeverb/",
+      "stance_label": "NTA",
+      "post_label": "Romance",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1q7xg1a",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "My wife(37)and I(36) just had twins who are 5 months old. and we have a 4yr old. My mom lives Brooklyn, NY and we live Bridgeport, CT. My mom (57) called and said she wanted to come visit the twins for the weekend and wants me to pick her up on Friday and drop her back home Sunday evening. Knowing that since my wife and i both work fulltime jobs and get home around 5- 5:30ish after picking the kids from daycare, I asked my mom if she minds taking the train and i'll pick her up from the train station. She immediately said \" I aint taking no train\".\n\nMy issue is driving into NYC on a Friday evening is not ideal where what would usually take 1.5 - 2 hours can easily turn into a 3 hour ordeal one way and the same goes for the return trip. I go to work around 6 and leave work at 3 and thats extra driving to NYC & back is something i really don't want to do\n\nA couple months ago my mom had a car that she drove to come visit maybe once every couple months but that car is now busted. I offered her my older car before the twins arrived, knowing that we were going to need a bigger vehicle and she said \"She is used to driving an SUV and my smaller SUV was too small/ too low for her\"... so we sold it.\n\nI havent responded to her last msg because I don't know what to say\n\nInfo: My mom has absolutely no issues with taking the train on a regular basis, she only got her license less than  10 years ago. She doesn't have any physical impediment as far as i know.  My mom is a Caribbean parent thinks that my siblings and I owe her for getting us permanent residency in the US 15+ years ago, except i'm the only \"successful one\" out of the bunch.\n\nUpdate: I told her I wasn't coming, so i guess she would see the kids another time unless she wants me to rent a car for her and she said, \"I already changed my mind\" so alls well that ends well",
+      "post_created_utc": 1767929640,
+      "post_created_iso": "2026-01-08T22:34:00Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nyk0q34",
+      "comment_text": "NTA. You live in an area of the country with more public transportation than just about anywhere else. \n\nSurely your mother can figure something out if she wants to see her grandchildren so badly. \n\nYou have two 5-month-olds and a 4-year-old. You have your hands full enough without having to spend that much time in the car to go get your mother and bring her home again.\n\nTell your mother that if she wants to see her grandchildren, she's going to have to figure out a way to get there. She's going to have to want to see them more than she hates riding on the train. \n\nIf you give in to her now, you surrender the high ground and you will be doing this forever.",
+      "comment_created_utc": 1767942449,
+      "comment_time_iso": "2026-01-09T02:07:29Z",
+      "comment_length": 664,
+      "comment_length_words": 126,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1q7xg1a/aita_for_not_wanting_to_drive_to_pick_up_my_mom_3/nyk0q34/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1qcdzc8",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "Last week on Friday, my (19m) stepsister (17) texts our family group chat (with me, my dad (52), my step mom (47) and my other step sister (19f)) For further context our parents got married 1 year ago so I never really got to know either of them too well and we all generally mind our own business,\n\nShe asked if someone could please grab her soup from a deli place like 2 miles down the street from our house on their way home because she wasn't feeling well. My dad and step sister both said they would be home later, and my step mom said that since she had a license now and could go herself. She said she was feeling really bad and didn't think she could.\n\nI was driving and stopped at a gas station and when I checked my phone while there I saw the messages and said that I could grab her some since I had just gotten off work. She said thank you and my step mom immediately responded and asked if I was sure since she was almost an adult who could get it herself. I said it was no big deal and that it was on the way home. We get take out from this place for dinner sometimes and I remembered she likes their cookies so I grabbed one for her too.\n\nWhen I get home my step sister was on the couch and my step mom was on the kitchen Island but their kinda in the same room, so when I gave her the soup and the cookie my step mom noticed.\n\nLater on my dad tells me that apparently my step mom didn't like that I went and got her the soup after she said she could grab it herself because I was undermining her, and apparently she also didn't like that I bought her a cookie too because apparently it was rewarding laziness. I said she was being ridiculous because it was literally soup and my dad told me that it didn't matter and that if she didn't like it I was in the wrong because I crossed the line by doing something she didn't want me to do.\n\nI thought she was over reacting at first but it seems like she is still upset about it and the more I think about it I feel as if I may have went against what she wants which is semi-rude.",
+      "post_created_utc": 1768365535,
+      "post_created_iso": "2026-01-13T23:38:55Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nzidecu",
+      "comment_text": "NTA. It would seem to me that a couple married less than a year would have looked at your act of kindness as a gesture toward building a healthy relationship with your step siblings, not a threat to her autonomy as a parent. \n\nYour stepmother may have a point only if this is something your stepsister does all the time, if she's not really sick, or if she takes advantage of you doing this repeatedly.\n\nWhen all else fails, err on the side of kindness. Your stepsister won't forget what you did. \n\n\nTime will tell.",
+      "comment_created_utc": 1768381712,
+      "comment_time_iso": "2026-01-14T04:08:32Z",
+      "comment_length": 515,
+      "comment_length_words": 95,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1qcdzc8/aita_for_undermining_my_stepmom_and_getting_my/nzidecu/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "care_harm",
+        "autonomy_boundaries",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "care_harm",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "care_harm",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1qejq8z",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "Growing up I (18f) had to do everything with my twin sister Sophie. Well mostly do everything Sophie wanted. If things didn’t go her way she’d throw a huge fit until she got her way. Our whole lives we had to share a brightly colored bedroom. Once in 4th grade I got in trouble because I put a picture of a poorly drawn dragon on the wall because it was “to dark for Sophie” which I thought was ridiculous. Throughout elementary and middle school our mom dressed us up in the exact same or nearly identical clothes because she thought it was cute. In 5th grade our mom had us join ballet because it was something Sophie always wanted to do. When I would ask to join boxing my dad would yell at me for only thinking of myself. My mom would always say that boxing was too rough for Sophie. It got worse in high school. Whenever I wanted to hang out with my own friends Sophie just had to come along or she’ll say im purposely excluding her. When I would have a crush on someone the next day Sophie would be dating him. In senior year Sophie already made up her mind that me and her both are going to college for cosmetology. To sum it all up I couldn’t do anything or do anything with my own life because it had to be what Sophie wanted or I’d get in trouble. As soon as I turned 18 I decided to join the navy. Last night I sat my parents and Sophie down at the table and explained that i wasn’t going to college for cosmetology with Sophie but I’m leaving for the navy. They all started to scream at me that this was selfish and I’m betraying my family. AITA? ",
+      "post_created_utc": 1768578982,
+      "post_created_iso": "2026-01-16T10:56:22Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "nzz8jul",
+      "comment_text": "NTA. I picture you and your sister as the two parts of Velcro that desperately need to be separated. \n\nIt sounds horrible, and probably doesn't feel very good right now, but in the long run, I think you're doing the right thing. \n\nI had a cousin who was similar but not quite as bad. I lived with her and her husband for several years, and in retrospect realized that everything had to be done her way. They eventually moved away and I was able to figure out what I wanted and not what she wanted. \n\nBest of luck in the Navy!",
+      "comment_created_utc": 1768592326,
+      "comment_time_iso": "2026-01-16T14:38:46Z",
+      "comment_length": 525,
+      "comment_length_words": 101,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1qejq8z/aita_for_not_telling_my_family_that_i_joined_the/nzz8jul/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "care_harm",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1qg7sf3",
+      "post_title": "AITA for refusing to give my parents my location after they stopped paying for my tuition?",
+      "scenario_description": "I [19F] am a sophomore in college. Until last semester my parents were paying for about 3/4 of my tuition and my housing. However they insisted I used the Life360 app showing my location to them at all times. It wasnt optimal but I figured its up to them since theyre paying for me. \n\nOver the holidays however my dad and I had a huge argument because I changed my major from Biology to Nursing. He told me I was throwing away a bigger opportunity but I feel like i can help more people this way. \n\nSince then Ive had to start working two jobs and take out multiple student loans. I pay for everything now, my parents give me $0.\n\nAnyways, last weekend I went on a roadtrip to another state and my mom started texting me non stop, demanding to know why i was in another state. I had forgotten about the tracking app at this point. I realised thats how they knew and I just deleted the app. \n\nThen came the calls from both my parents, both of them saying how dangerous it is for me to not be tracked by them all the time. I told them Im paying for my own life now, i vale my privacy and I dont feel comfortable with the app. \n\nThis has really infuriated and dad and upset my mom because she thinks Im trying to cut them off completely or something. \n\nThey said if I dont turn it back on, that Im not welcome at Thanksgiving this year. \n\nAITA?\n",
+      "post_created_utc": 1768740663,
+      "post_created_iso": "2026-01-18T07:51:03Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o0mp626",
+      "comment_text": "NTA. If you're old enough to support yourself, you're old enough to take care of yourself. \n\nThat being said, unless you're going scorched Earth and cutting them off completely, contact them (however you like), and let them know calmly and unemotionally that you are no longer going to be tracked by them using that app. \n\nYou are, however, going to contact them, say, once a week via phone to check in and make sure everything's okay and let them know that you're all right.\n\nThat's really all a normal parent wants*. They want their kids to be safe. I totally get that. You're spreading your wings and enjoying your life. I get that too. \n\nNot knowing is going to make them worry. Needlessly. I watched my parents go through that with my brother. It was hell.\n\nIf you are going total NC with them, do it. But if you're not, be an adult and check in with them once a week and give them a brief update of what's going on in your life. \n\nYou're setting an important boundary. If you set the boundary, it's much easier to deal with than if they try to set it for you because theirs sounds absolutely smothering.\n\n* Based on what you're saying, in no way shape or form am I implying that your parents are normal.",
+      "comment_created_utc": 1768894732,
+      "comment_time_iso": "2026-01-20T02:38:52Z",
+      "comment_length": 1209,
+      "comment_length_words": 224,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1qg7sf3/aita_for_refusing_to_give_my_parents_my_location/o0mp626/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "role_obligation",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1qpj13f",
+      "post_title": "AITA for refusing to share my food with my girlfriend?",
+      "scenario_description": "The Lord of the Rings is doing a theatrical rerun in my city so me (27m) and gf (27f) decided to go watch the Two Towers (extended edition) last night. We do not currently live together.\n\nThere’s a bar that I really love right next to the theatre. I asked if we could go to this restaurant after the movie because I really wanted to get this specific dish - it’s lattice style fries that are fried in beef tallow, covered with green onions, bacon, house seasoning, and comes with the best hollandaise sauce I’ve ever tasted in my life. You can get fries for one (smaller portion) or fries for two (much larger portion) for a couple extra dollars.\n\nShe didn’t realize that the movie was nearly 4 hours long, and it ended at around 10pm. By this time she said she was tired and didn’t want to go to the restaurant anymore. I said that’s ok, and asked if I could order my fries to go. She said that that’s fine. I asked her if she wanted any and she said no, so I ordered the fries for one. I checked with her again before I ordered and she said she 100% didn’t want any.\n\nWe went to pick up the fries. She caught a whiff of it and asked if she could have a few. No problem, they are very delicious and I let her have some. She then asked if we could sit outside the restaurant to eat the whole thing together. I said no, I asked you if you wanted to have some and you said no, and if you wanted to eat some you should’ve told me so I could’ve gotten the fries for two and I don’t want to share the fries for one as it’s a smaller portion. She got really upset and said I’m being selfish and refusing to share my fries. I said that yes I am being selfish but in this case I really wanted the fries and just being honest but I don’t want to share in this instance.\n\nShe’s since cooled down but this morning we had a call and she said that next time I should just share it with her and I said I’m happy to share any time but not in cases like this and she should be more careful about saying what she wants. She’s upset with me again now. So, am I the AH?",
+      "post_created_utc": 1769623718,
+      "post_created_iso": "2026-01-28T13:08:38Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o2dcrtc",
+      "comment_text": "NTA, but learn from this experience. \n\nAnytime you ask if she wants to share your food and she refuses, order for her anyway. \n\nIf she insists that she's not going to eat it, tell her that past experience tells you otherwise. \n\nIf she follows through, you have leftovers you can reheat later. \n\nAs others have said, this kind of manipulation drives me nuts and is a large reason why I'm still single. \n\nI'm not sure why people do this, and I say people because it's not always women. \n\nI can't help but wonder if it's because she didn't want to look like she was overeating or afraid of becoming fat? Was she afraid of you gaining weight? Or was she just trying to be a control freak? \n\nThese, and other questions, may further enlighten the nature of your relationship. \n\nIn the meantime, order for two, and enjoy them either with her or without her.",
+      "comment_created_utc": 1769670547,
+      "comment_time_iso": "2026-01-29T02:09:07Z",
+      "comment_length": 850,
+      "comment_length_words": 154,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1qpj13f/aita_for_refusing_to_share_my_food_with_my/o2dcrtc/",
+      "stance_label": "NTA",
+      "post_label": "Romance",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "property_consent",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "property_consent"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1qss29u",
+      "post_title": "AITA Insisting 33 year old boyfriend wears shoes in shopping centres",
+      "scenario_description": "AITA - Me (35f) had been planning on going to our local very large shopping centre all day. When I've finished work he's come over and I gave him a 30 minute reminder, a 15 minute reminder and a 5 minute reminder we were leaving. \nOnce we left I asked him he brought shoes (ongoing dispute in our relationship) and he said no. I've told him countless times he has the choice to not wear shoes when we leave the house but I also have a choice to not have a part of it. I informed him I consider not wearing shoes in public a disgusting practice and he started accusing me of him insulting him and calling him disgusting. I reiterated I wasn't saying that about him as a person just the act of going barefoot in nice very busy shopping centres. On the drive there I informed him he would be staying in the car because again, it was his choice to not wear shoes and now he's accusing me of not wanting to be with him, not wanting to spend time with him and calling him disgusting. AITA? ",
+      "post_created_utc": 1769931416,
+      "post_created_iso": "2026-02-01T02:36:56Z",
+      "post_flair": "Everyone Sucks",
+      "comment_id": "o3040i8",
+      "comment_text": "YTA. Do you want a partner or a project? \n\nAt 33, if he hasn't figured out consequences, he's a loss. \n\nStop enabling him. Count your blessing he's your boyfriend, not your husband. \n\nGo to the mall with him. A grown up doesn't need a warning and does not need to be reminded he needs to wear shoes. Chances are pretty good if tries to walk into a store/restaurant barefoot he's not going to be allowed in. Make him wait outside and take your time. Look at him calmly and say, \"I guess you're not going to eat with me. I'll see you in the car when I'm done\"\n\nIt's only going to take one trip for him to figure out this is a zero-sum game for him. \n\nHe's doing this to press your buttons and to get a reaction out of you. For the love of God, stop. Giving. Him. The power!!!!\n\nIf this is too much of a deal-breaker for you, send them back to his mama, because that's what he wants. \n\nAlso, contraception, contraception, contraception!!!!!",
+      "comment_created_utc": 1769966670,
+      "comment_time_iso": "2026-02-01T12:24:30Z",
+      "comment_length": 937,
+      "comment_length_words": 177,
+      "comment_score": 1,
+      "comment_permalink": "/r/AmItheAsshole/comments/1qss29u/aita_insisting_33_year_old_boyfriend_wears_shoes/o3040i8/",
+      "stance_label": "YTA",
+      "post_label": "Romance",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1r3h4lf",
+      "post_title": "AITA for not offering to take the bunk bed in an airbnb as the single person?",
+      "scenario_description": "For my friend’s birthday she wanted our friend group to go away for the weekend for 2 nights. We are a group of 6 girls and she said that partners are welcome so there are now 10 of us (4 couples and 2 singles). She organised the Airbnb and we are dividing the cost equally between everyone. \n\nThere are 6 rooms: 2 rooms with a double bed, 2 rooms with 2 single beds and 2 rooms with 2 bunk beds. None of the rooms have ensuites and there are 3 bathrooms in the airbnb. \n\nFor deciding who sleeps in what room, myself and my friend that organised the trip (both the single people) asked can we pull names from a hat to see who sleeps where to keep it fair.\n\nTwo of the couples are happy with this arrangement but two of the couples don’t agree with it. \n\nOne of the couples said that they are paying more so should get a double room but I can’t understand that way of thinking. They aren’t paying more, they are each paying the same amount for 1 adult as I am. A couple is not 1 unit, they are still 2 people that will be using the shared bathrooms, 2 people that will be taking up space in the kitchen and living areas. \n\nI went on a trip recently and had to sleep on a bunk bed and had the worst sleep on it. I have slept on a double bed since I was 14 years old. I don’t think it’s fair that just because I don’t have a boyfriend I should automatically get the worst sleeping arrangement. Especially as we are all paying the same amount.\n\nI can’t stop thinking about the situation and I am feeling sad and upset that they would be happy with automatically putting me in the worst bed due to not being in a couple. I just want it to be a fair decision. \n\nAm I the asshole for not just offering to take one of the rooms with the bunk beds?\n\n",
+      "post_created_utc": 1770961695,
+      "post_created_iso": "2026-02-13T00:48:15Z",
+      "post_flair": "Asshole",
+      "comment_id": "o54crtd",
+      "comment_text": "NTA. As a single person, I've been punished for my marital status my whole life. \n\nYes, I said punished. \n\nIt amazes me that a committed couple can't bear the thought of spending two nights not in the same bed. Will they die? I certainly hope not! \n\nThe person/people who planned the trip should get first dibs. Maybe that will motivate the couples to plan the trips in the future.\n\nAssuming that you're splitting the cost per person, and a couple is paying two shares, it should make no difference. \n\nWe live in a society that treasures the coupled and only tolerates the single people as a necessary burden. \n\nI for one am done with it. \n\nIf they feel that strongly about it, tell them that you will take your share of the cost and get your own hotel room and join them during the day. \n\nStand up for the single people!!\n\nUpdateme.",
+      "comment_created_utc": 1770963560,
+      "comment_time_iso": "2026-02-13T01:19:20Z",
+      "comment_length": 833,
+      "comment_length_words": 152,
+      "comment_score": -26,
+      "comment_permalink": "/r/AmItheAsshole/comments/1r3h4lf/aita_for_not_offering_to_take_the_bunk_bed_in_an/o54crtd/",
+      "stance_label": "NTA",
+      "post_label": "Friendship",
+      "controversial": true,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "fairness_reciprocity",
+        "property_consent",
+        "tradition_expectations",
+        "autonomy_boundaries",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "fairness_reciprocity",
+        "property_consent"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "fairness_reciprocity",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1r6bjwl",
+      "post_title": "AITAH for going on holiday to the same destination my sister went to on her honeymoon?",
+      "scenario_description": "Firstly, I apologise for any spelling/ grammar mistakes as English is not my native language. Last year I had planned to do a lot of solo travelling for 2026 as I have only been abroad a couple times in my life but now I’m approaching my 30s I want to travel to more fancy places before I settle down and have kids. One of the trips I have booked is to the Maldives. Truly a once in a lifetime experience and something I have wanted to do since I was a kid. I have saved up a decent amount of money and have paid a deposit and I will be going to in early 2026. This trip which I had planned for a long time has never been an issue with my family until quite recently my sister has said that I shouldn’t be going to the Maldives as this is where she went okay her honeymoon. I never thought that going here because she had her honeymoon there was an issue and she nor anyone else ever previously expressed that this would be an issue. Now that I have paid a non refundable deposit suddenly it has become a huge problem that I’m going to the Maldives. She sent me a text message saying that if I don’t cancel my trip then she will cut me off. My parents (who never had an issue before) are now taking her side and saying it’s really hurtful that I’m going. I just need to know whether I’m in the wrong? Am I the asshole?",
+      "post_created_utc": 1771253312,
+      "post_created_iso": "2026-02-16T09:48:32Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o5p335i",
+      "comment_text": "NTA. I suggest you do two things. \n\nFirst, take your trip. Have a great time. Just don't talk a lot about it unless they ask about it. Share your stories with your friends, with the ones who care. \n\nSecond, on a more passive aggressive note, tell your sister and your parents that while you don't understand quite where they're coming from, you would like a list of all the places in the world they have all visited. So you will know where you can and cannot go for the rest of your life. Then, provide them a list of all the places you have been so that they will be sure not to go there. \n\nOdds are against it, but one would hope that a normal sane person would realize how STUPID their logic is.",
+      "comment_created_utc": 1771255609,
+      "comment_time_iso": "2026-02-16T10:26:49Z",
+      "comment_length": 698,
+      "comment_length_words": 135,
+      "comment_score": 29,
+      "comment_permalink": "/r/AmItheAsshole/comments/1r6bjwl/aitah_for_going_on_holiday_to_the_same/o5p335i/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "tradition_expectations",
+        "fairness_reciprocity"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1r8q5cx",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "There has been numerous conversations and fights over what my twin boys names will be. Me and my husband both agreed that they will have Mexican names due to their last name being Mexican and honestly I just like the way it sounds and it flows better. My family (White) isn’t too happy about the names we chose. My husbands family (Mexican) doesn’t really care what we name the kids. One of the babies middle name will be my father in-laws name solely because we like the name (my husband wishes it was his name instead of the one he was given at birth). Me and my husband have thought of ways to make my dad’s name sound Spanish/ variations of it in Spanish and still don’t like the way it sounds. So we decided that we would pick completely random names that we both like. Well now I am 7 months pregnant about to pop at anytime and my family has been arguing non stop about the names. They said that they do not feel included in our lives and that feeling are hurt since we don’t want to name the other one after my father. They are aware that we just don’t like the way it sounds. But they still say that it is disrespectful and will not be calling our children by the names that we chose but will come up with something else to call them. Do I just cave and name one of my kids something I don’t like? Or get rid of my father in laws name? We have already told everyone what the babies names will be so it makes it even more complicated on changing them. I feel stressed and me and my husband just don’t know what else to do. AITAH if I keep the names how they are and disregard the conversations my parents have had with me?",
+      "post_created_utc": 1771477000,
+      "post_created_iso": "2026-02-18T23:56:40Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o67b32x",
+      "comment_text": "NTA. If you read any of these posts on Reddit, you should know by now not to talk about the children's names until they're born. \n\nEven then, they're your kids, you name them what you like. \n\nTell your parents that this is non-negotiable and if they don't want to be around your children, that's purely their decision. \n\nEnd the conversation right there. \n\nIf they want to name kids, they can have their own. Wait a minute, they did!! Too late!!",
+      "comment_created_utc": 1771484499,
+      "comment_time_iso": "2026-02-19T02:01:39Z",
+      "comment_length": 445,
+      "comment_length_words": 80,
+      "comment_score": -3,
+      "comment_permalink": "/r/AmItheAsshole/comments/1r8q5cx/aitah_choosing_my_father_in_laws_name_but_not_my/o67b32x/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1rappgd",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "my sister (19f) and me (21f) live in the same 2bedroom apartment for more than a year now. last year September my sister and her boyfriend (19m) got together and at first he came over for movies or dinners, sometimes she goes to his apartment and stays there. I didn't mind if she decides to stay at his place and him stay at our place sometimes.\n\nbut it starts to be annoying when he stayed at our apartment everyday. he did not once go back to his apartment for a whole month even. and on top of that he likes to slam doors and pees while the door is open, never throws the trash out or wash his own dishes. he has no manners and walks around our apartment half naked a lot. I told my sister so many times, he is not allowed to stay for too long because in the end of the day, this is mine and her apartment, not his mine and her apartment. I pay the rent, the bills, clean the house.\n\nso one day I've had enough and I told my sister that if he stays at our place one more time I'm going to let my parents know. we're international students and when parents are not around she can do what she wants. she got upset but he's still here. i don't know what else to do, I can't just yell at her boyfriend to go back to his apartment, but he overstayed. he has his clothes here, even sometimes his PS5, literally everything he owns is here.\n\ntoday I yelled at her again that he is not allowed to come back, ever. no staying over unless she goes to his place.\n\nshould I be more of an asshole or am I already an asshole for kicking him out? was I too strict? she is an adult so she should know what's best for herself and me, just like how I am respecting her space and not letting my partner come stay over.\n\nedit: to add to all the bad things, I have a cat, and he constantly scares the living hell out of the poor guy. he stomps and runs after my cat, making loud noises suddenly to make him jump. that's also one of the things I didn't get to realise after thinking about this post for a while, and it makes me feel like I've failed as a pet owner to keep my cat happy and feel safe in my home. I also set some boundaries after I read all the replies on this post, and I decided to still allow him to be here only twice a week, and then I'll lessen it to not at all.",
+      "post_created_utc": 1771676145,
+      "post_created_iso": "2026-02-21T07:15:45Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o6m5fki",
+      "comment_text": "NTA. To whom are you paying the rent? If there's a lease, there's usually a limit to how many people can live there and how many people can stay over in the course of a month. \n\nTell your sister she has a choice. She can go live with her boyfriend, or she can tell her boyfriend to get out and not come back until he's ready to be a grown up and only for so many days a month. Your sister may be your sister, and there's a loyalty to be had there to be sure, but she sure isn't having your back when she puts her boyfriend before you.\n\nYou said yourself that you're adults. Why are you pulling your parents into this? If they don't own the apartment and they don't contribute to her share of the rent, leave them out of this. If she goes running to them, tell them what's going on. I don't think she wants them to know.",
+      "comment_created_utc": 1771688418,
+      "comment_time_iso": "2026-02-21T10:40:18Z",
+      "comment_length": 819,
+      "comment_length_words": 164,
+      "comment_score": 3,
+      "comment_permalink": "/r/AmItheAsshole/comments/1rappgd/aita_for_kicking_my_sisters_bf_out_of_my_apartment/o6m5fki/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "role_obligation",
+        "autonomy_boundaries",
+        "tradition_expectations",
+        "loyalty_betrayal"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "property_consent",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1rasbjw",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "For some backstory leading into this, my ex and I started dating back in 2019 as HS sweethearts. We got engaged a couple years later, then married a year after that (2022), when we were 21/20. Ever since we started dating, I would hang out with her little brother (he's 4 years younger than me, we'll call him “BIL”), support him at his football games, and hang out one on one. He was one of my groomsmen at the wedding and went to the bachelor's party, aka big camping trip, and he truly was/is just one of the boys.  \n\nLast year, in June 2025, despite me thinking our marriage was doing great, my ex confessed that she had been dissatisfied the entire time, and rushed into it too young. She reiterated that I didn't do anything wrong, that I'd been a great husband, we just were too incompatible. So, despite my best efforts to talk to her and see therapists that could maybe help, we got divorced at the beginning of this year (2026). All our family and friends were shocked by this decision. Her family was really supportive of me and checked in on me.\n\nBefore she confessed all that to me, back in the beginning of 2025, BIL and his fiancee (\"Fia\") told me and my ex that she would be a bridesmaid and I a groomsman for their wedding that is happening in Oct 2026. After she and I separated, I kind of just continued on with the assumption that we were both still in the wedding party.\n\nPlot twist, Fia decided she doesn't want my ex to be in the wedding party, because 1. They want to keep it to 4, so Fia chose her 2 sisters and 2 best friends, 2. Fia and my ex were never really super close to begin with and 3. Fia and my ex already had some bad blood due to a she said/she said situation back around April of 2025, then the separation happened and Fia was really upset at my ex for that as well, since me and Fia have a good relationship. \n\nMeanwhile, yes, I am still a groomsman. In fact, BIL has been more consistent about calling and checking in on me than most. We talk for like an hour or two once every couple weeks, and still maintain the great relationship we had beforehand. So yes, for his four he chose his older brother, his two childhood best friends, and me, who he's known since 2019. He hasn't known anyone else in his life that long. The next up on the roster is his roommate, who he's known for about a year, and has a \"worsening\" relationship with. \n\nWhen this got around to my ex, she understandably got upset. She sees it as a slight towards her and a declaration of whose side they're on to the whole family. So my ex's dad (who I hear misses me a lot but we keep distant) reached out and politely asked me to drop out as a groomsman. They also talked to BIL, and he called me to talk it all over. He doesn't want to kick me out as a groomsman at all, he genuinely doesn't want anyone else in that spot. But he also understands the politics of it all. \n\nAITA for not voluntarily dropping out? Idk if this is cheating, but WheBTA for keeping me in? Thanks :)",
+      "post_created_utc": 1771683743,
+      "post_created_iso": "2026-02-21T09:22:23Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o6m7s4n",
+      "comment_text": "NTA. It's plain and simple. If the groom wants you in his party, you do that. If he asks you to drop out, drop out. This is not about you. This is not about his sister. \n\nThey get to pick who they want there. If the bride doesn't want you there and the groom does, they have a problem.  You don't.\n\nTell him that you understand that there's a conflict, ask him what he wants you to do, and then do it.\n\nI have to confess that I'm not sure what your ex being in the wedding party has to do with you being in the wedding party. You're divorced.",
+      "comment_created_utc": 1771689128,
+      "comment_time_iso": "2026-02-21T10:52:08Z",
+      "comment_length": 542,
+      "comment_length_words": 110,
+      "comment_score": 3,
+      "comment_permalink": "/r/AmItheAsshole/comments/1rasbjw/wibta_for_not_dropping_out_as_my_exbrotherinlaws/o6m7s4n/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "role_obligation",
+        "tradition_expectations",
+        "autonomy_boundaries"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "role_obligation",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "role_obligation",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1rdylp9",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "I’m(28F) a sahm of 3 great kids (6 and under) and long time gf of my bf(31M). Of course I handle most of the home duties and parenting responsibilities. Which atp I don’t want to do anything more than that. I love what I do for my family on a daily basis and who else can do it like me. I’ll wait...\n\nRecently I have been sleeping on the couch when my bf of 10 years is taking night shifts. We recently purchased a new mattress and I just can’t stay comfortable on it. It has springs in it that literally feel like I’m bouncing in a lowrider when just simply turning my pillow on the cool side. Lying in one position for a certain amount of time feels like the springs are trying to bruise me. My bf has expressed that he loves the mattress and that yes it is bouncy, but he gets his 8 hours on it. Ive asked many times if we could buy a topper but he claims we don’t need it. I can’t believe I’m saying this but I don’t get paid for being a sahm (shocker ik) and most of the time I check in with him before I make purchases. So I don’t want to keep bringing it up. It’s a if it’s not broken why fix it kinda situation. So when he is not home to snuggle up with at night to somewhat soothe my discomfort, I prefer the couch. This last time I WRECKED my lower back. I do not blame anyone but myself for the pain I’m currently experiencing BUT here is where I get pissy.\n\nI have been slow moving around the house. Expressed many times what exactly kinda shape I’m in and have apologized for its effects on me. In fact he’s the one who told me to not sleep on the couch for this very reason BEFORE I even got to the part of why I was in pain in the first place. He knows me well but not well enough to not hurt in the what he ends up doing. \n\nHaven’t got it in me to carry on like I normal do. I sit to wash dishes and take many breaks while entertaining my youngest child who doesn’t attend school yet but, please believe me when I say I WILL GET THE JOB DONE. Even if I’m up late doing so. I just have to rest in between it all because at some point my lower back will start throbbing. ",
+      "post_created_utc": 1771980794,
+      "post_created_iso": "2026-02-24T19:53:14Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o79t9za",
+      "comment_text": "YTA but only because you're not standing up for yourself. \n\nHe clearly is putting himself before you. If the bed is for both of you, it has to work for both of you. \n\nIf you just recently got the bed, see if you can return it and find something that works for the two of you. If it's too late, sell the bed and buy a new one. \n\nAsk yourself if this is the way you want to spend the rest of your life, and if this is the way you want to teach your children, what normal is. \n\nI'm assuming there is no other room in the house where you can have your own place to sleep. If I'm wrong, sleep with one of the kids. There is no need for you to martyr yourself for the sake of your family. \n\nYou two need to improve your communication. Pick a time when you're both calm and rested and have an adult conversation. Leave a motion out of it, use I statements, and see if you can't find a solution. \n\nI wish you the best of luck.",
+      "comment_created_utc": 1771994434,
+      "comment_time_iso": "2026-02-24T23:40:34Z",
+      "comment_length": 918,
+      "comment_length_words": 187,
+      "comment_score": 2,
+      "comment_permalink": "/r/AmItheAsshole/comments/1rdylp9/aita_for_not_fixing_my_familys_dinner/o79t9za/",
+      "stance_label": "YTA",
+      "post_label": "Romance",
+      "controversial": true,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "B",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "care_harm",
+        "role_obligation",
+        "fairness_reciprocity",
+        "honesty_communication"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1re633j",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "When I was living with my grandpa, we agreed that my rent was $500 a month. We split it as $250 every two weeks just to make payments easier.\n\nOne month happened to have three paychecks because of how the calendar fell. I still paid $500 for that month, because the agreement was $500 per month, not “$250 every paycheck no matter what.”\n\nBack then, he tried to say I owed an extra $250 because of that third paycheck. We argued about it, and that situation is actually part of why I moved out. Nothing was ever paid or settled beyond that, and life moved on.\n\nNow, five years later, he called me saying I still owe him that $250.\n\nI told him that the agreement was $500 a month, I paid that, and a month having three paychecks doesn’t change the rent. I also told him I’m not revisiting this again.",
+      "post_created_utc": 1772002284,
+      "post_created_iso": "2026-02-25T01:51:24Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o7aic3i",
+      "comment_text": "NTA.  But do a little digging. Is he trying to sponge money off of you, or does he really need it?\n\nTry to figure it out. Maybe something like, \"You know, I thought we had resolved this a while ago. If you need the money, I'm happy to loan or even give it to you if you need it. But we had an agreement that I would pay you $500 a month, not $500 per paycheck.\"",
+      "comment_created_utc": 1772006649,
+      "comment_time_iso": "2026-02-25T03:04:09Z",
+      "comment_length": 361,
+      "comment_length_words": 76,
+      "comment_score": 2,
+      "comment_permalink": "/r/AmItheAsshole/comments/1re633j/aita_do_i_owe_250_still/o7aic3i/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "property_consent",
+        "role_obligation",
+        "fairness_reciprocity"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "property_consent",
+        "role_obligation"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "property_consent",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "post_id": "t3_1rgc4si",
+      "post_title": "[ Removed by moderator ]",
+      "scenario_description": "I (30F) have a niece (8) and nephew (11) from my sister (33F). My nephew is into boxing for the past year and a half and has had a couple of chances at having matches over the time but nothing ever happened for various reasons. He now has a confirmed first match ever, and it’s on a Saturday but the time is unknown (I am told its how these tournaments go so it can be anytime), but the match is in a town 2 hours drive away (one way).\n\nMy wife and I initially wanted to go to offer support, but it was unknown until today if he would even debute on the tournament, and today it was confirmed he would but unknown when, which would mean that we would have to go in the morning for a 2 hour drive, wait around to watch the match, and drive 2 hours back, basically spending the whole day there. As this was also at the last minute with an unknown schedule, and we also have 2 dogs that would require us to find someone to stop by to be with them (one is a 4 year old rescue we just got less then a month ago so they can’t stay alone for long), I told my sister we actually won’t be going.\n\nShe asked me why, and I explained the above, and she said, well what’s the big deal it’s Saturday, you’re not working as is.\n\nWhether we are working or not is irrelevant for me, as even though I really want to support my nephew, and we have always done so in the past whenever they had violin recitiles, or whatever events, I don’t want to spend a whole day ‘waiting around’ and driving for one match when I am sure there will be more in the future.\n\nI explained this to her and also said that it’s not like it’s a World Cup of matches, there will be hopefully more, she lost her mind yelling calling me selfish and that I am only thinking of myself and not doing anything for them. This is where I lost it and told her they are acting very ungrateful and entitled, thinking everything should be expected of us, and that she is erasing everything we are doing for them by implying we are selfish for not doing this one thing.",
+      "post_created_utc": 1772211416,
+      "post_created_iso": "2026-02-27T11:56:56Z",
+      "post_flair": "Not the A-hole",
+      "comment_id": "o7qio8n",
+      "comment_text": "NTA. You're offering too many explanations. \n\nBe calm, matter of fact, and explain that due to the shortness of notice, you're unable to attend. Thank her for the invitation, promise to attend if there is something closer to home and with that adequate notice. \n\nIf she pushes, tell her it just won't work this time. She will find an excuse or a solution for anything you offer. \n\nSo don't. \n\nIf she persists, tell her you have talked about it, you're disappointed that you can't make it, you're going to try to make it next time, but you'll need more notice. If she still persists, tell her you've already explained yourself and you're not going to discuss it again and hang up. \n\nI appreciate how parents are so into their kids sports. That support from a parent is so important. It wears me out when people expect the world to come to a complete stop for their kid. \n\nI went to soccer games for my nephews, baseball games for them, and karate tournaments, because I had no choice. We had traveled from a distance and my parents wanted to go. \n\nMy brother took me to task for not paying attention and not cheering when everyone else cheered. I explained that I cannot see what's going on. I don't understand the game. I can't tell one player from another. But I'm there. \n\nI also brought my knitting. \n\nMake an effort to go to the next one when it's closer to home. Your sister is asking too much.",
+      "comment_created_utc": 1772213976,
+      "comment_time_iso": "2026-02-27T12:39:36Z",
+      "comment_length": 1399,
+      "comment_length_words": 255,
+      "comment_score": 10,
+      "comment_permalink": "/r/AmItheAsshole/comments/1rgc4si/aita_for_not_going_to_my_nephews_game/o7qio8n/",
+      "stance_label": "NTA",
+      "post_label": "Family",
+      "controversial": false,
+      "stance_question": true,
+      "mcqs": [
+        {
+          "question_id": "q1",
+          "tag": "non_controversial_stance",
+          "question": "Based on this person's historical commenting patterns, what stance would they likely take on whether the person in this scenario is the asshole?",
+          "answer": "A",
+          "question_type": "stance",
+          "answer_options": [
+            "A. NTA",
+            "B. YTA"
+          ]
+        }
+      ],
+      "metallama_llama3370binstruct_warrant_candidates": [
+        "autonomy_boundaries",
+        "tradition_expectations",
+        "role_obligation",
+        "property_consent",
+        "care_harm"
+      ],
+      "metallama_llama3370binstruct_warrant_label": [
+        "autonomy_boundaries",
+        "tradition_expectations"
+      ],
+      "metallama_llama3370binstruct_dominant_warrant": "autonomy_boundaries",
+      "metallama_llama3370binstruct_warrant_tagged": true
+    }
+  ],
+  "metallama_llama3370binstruct_tagging_metadata": {
+    "model": "meta-llama/llama-3.3-70b-instruct",
+    "temperature": 0.1,
+    "timestamp": "2026-03-30T13:38:53.193039",
+    "topics_tagged": 41,
+    "topics_newly_tagged": 41,
+    "topics_skipped": 0,
+    "topics_total": 41,
+    "model_prefix": "metallama_llama3370binstruct"
+  }
+}
