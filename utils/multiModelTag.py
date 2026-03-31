@@ -10,9 +10,9 @@ from typing import List, Dict, Any
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import sys
 
-# Add parent directory to path
-sys.path.append(str(Path(__file__).parent.parent.parent))
-from utils.llm_utils import create_client
+# Add repo root to path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from llm_utils import create_client
 
 # ANSI colors
 class Colors:

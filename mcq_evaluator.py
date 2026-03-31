@@ -17,6 +17,7 @@ from dotenv import load_dotenv
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Import LLM utilities
 from llm_utils import create_client
@@ -64,9 +65,12 @@ class EvalConfig:
     temperature: float = 0.1
     seed: int = 42
     max_concurrent: int = 10
+    max_concurrent_topics: int = 5
     experiments: List[str] = None  # ['standard', 'no_context', 'shuffle']
     question_types: List[str] = None  # ['stance', 'warrant', 'evidence']
     debug: bool = False
+    # Warrant-misaligned shuffle: path to user-with-warrant-gt/ (694 users)
+    cross_context_dir: str = None
 
 
 class LLMInterface:
@@ -350,44 +354,149 @@ Options:
         logger.info(f"Loaded MCQs for {len(mcq_data)} users")
         return mcq_data
     
-    def get_shuffle_context(self, all_mcq_data: Dict[str, List], current_user: str) -> List[Dict[str, Any]]:
-        """Get context from most dissimilar user using TF-IDF"""
-        # Build TF-IDF model if not cached
+    def _build_warrant_donor_index(self):
+        """Build {warrant_key -> sorted list of (username, dominant_frac, topics)} from cross_context_dir."""
+        from collections import defaultdict, Counter
+        cross_dir = Path(self.config.cross_context_dir)
+
+        # Map warrant label prefix → raw key
+        LABEL_TO_KEY = {
+            'property/consent': 'property_consent',
+            'care/harm': 'care_harm',
+            'autonomy/boundaries': 'autonomy_boundaries',
+            'role-based': 'role_obligation',
+            'fairness': 'fairness_reciprocity',
+            'tradition': 'tradition_expectations',
+            'safety': 'safety_risk',
+            'honesty': 'honesty_communication',
+            'relational loyalty': 'loyalty_betrayal',
+            'authority': 'authority_hierarchy',
+        }
+
+        user_profiles = {}
+        for fpath in cross_dir.glob('*.json'):
+            with open(fpath) as f:
+                d = json.load(f)
+            topics = d.get('topics', [])
+            cnt = Counter(t.get('warrant_gt') for t in topics if t.get('warrant_gt'))
+            total = sum(cnt.values())
+            if not cnt:
+                continue
+            dom, dom_n = cnt.most_common(1)[0]
+            user_profiles[fpath.stem] = {
+                'dominant': dom,
+                'frac': dom_n / total,
+                'topics': topics,
+            }
+
+        # Group donors by their dominant warrant, sorted by frac desc
+        donors_by_dominant = defaultdict(list)
+        for username, p in sorted(user_profiles.items()):
+            donors_by_dominant[p['dominant']].append((username, p['frac'], p['topics']))
+        for k in donors_by_dominant:
+            donors_by_dominant[k].sort(key=lambda x: -x[1])
+
+        self._donor_index = dict(donors_by_dominant)
+        self._label_to_key = LABEL_TO_KEY
+        logger.info(f"Warrant donor index built: {len(user_profiles)} users, {len(self._donor_index)} warrant groups")
+
+    def _extract_warrant_key(self, mcq: Dict[str, Any]) -> str:
+        """Extract raw warrant key from warrant MCQ answer options."""
+        answer = mcq.get('answer', '')
+        opts = mcq.get('answer_options', [])
+        if not answer or not opts:
+            return None
+        idx = ord(answer.upper()) - ord('A')
+        if idx < 0 or idx >= len(opts):
+            return None
+        gt_text = opts[idx].lower()
+        for label, key in self._label_to_key.items():
+            if label in gt_text:
+                return key
+        return None
+
+    def _build_context_from_donor_topics(self, topics, exclude_comment_id, warrant_key, budget=6000):
+        """Build ~budget-word context from donor topics, warrant-aligned first."""
+        def w(t): return len(t.get('scenario_description', '').split()) + t.get('comment_length_words', 0)
+        valid = [t for t in topics
+                 if t.get('comment_id') != exclude_comment_id
+                 and t.get('scenario_description') and t.get('comment_text')]
+        pool1 = [t for t in valid if t.get('warrant_gt') == warrant_key]
+        pool2 = [t for t in valid if t.get('warrant_gt') != warrant_key]
+        ctx, used = [], 0
+        for pool in [pool1, pool2]:
+            for t in pool:
+                wc = w(t)
+                if used + wc > budget and used > 0:
+                    continue
+                ctx.append({'scenario': t['scenario_description'], 'comment': t['comment_text']})
+                used += wc
+                if used >= budget:
+                    break
+        return ctx
+
+    def get_shuffle_context(self, all_mcq_data: Dict[str, List], current_user: str,
+                            mcq: Dict[str, Any] = None) -> List[Dict[str, Any]]:
+        """Get warrant-misaligned cross-person context.
+
+        If cross_context_dir is configured, uses warrant-misaligned donor from the
+        full 694-user pool. Otherwise falls back to legacy TF-IDF shuffle.
+        """
+        if self.config.cross_context_dir and mcq is not None:
+            # Lazy init
+            if not hasattr(self, '_donor_index'):
+                self._build_warrant_donor_index()
+
+            # Only meaningful for warrant questions; use first warrant MCQ's GT otherwise
+            if mcq.get('question_type') == 'warrant':
+                warrant_key = self._extract_warrant_key(mcq)
+            else:
+                # For stance/evidence: find warrant_key from any warrant MCQ of same post
+                warrant_key = None
+                cid = mcq.get('comment_id')
+                for u_mcqs in all_mcq_data.values():
+                    for m in u_mcqs:
+                        if m.get('comment_id') == cid and m.get('question_type') == 'warrant':
+                            warrant_key = self._extract_warrant_key(m)
+                            break
+                    if warrant_key:
+                        break
+
+            if warrant_key:
+                # Find best donor: dominant ≠ warrant_key, highest frac, ≠ current_user
+                for dom_warrant, donors in self._donor_index.items():
+                    if dom_warrant == warrant_key:
+                        continue
+                    for dname, dfrac, dtopics in donors:
+                        if dname != current_user:
+                            ctx = self._build_context_from_donor_topics(
+                                dtopics, mcq.get('comment_id', ''), dom_warrant)
+                            if ctx:
+                                logger.info(f"Shuffle: {current_user} → {dname} (dominant={dom_warrant}, frac={dfrac:.2f}) for warrant_key={warrant_key}")
+                                return ctx
+                            break
+
+        # ── Legacy TF-IDF fallback ────────────────────────────────────────────
         if self.tfidf_model is None:
             logger.info("Building TF-IDF model for shuffle experiment...")
             self.user_list = sorted(all_mcq_data.keys())
-            
-            # Collect all context text for each user
             user_texts = []
             for user in self.user_list:
-                # Combine all contexts from user's MCQs
                 contexts = []
-                for mcq in all_mcq_data[user]:
-                    for ctx_item in mcq['context']:
+                for m in all_mcq_data[user]:
+                    for ctx_item in m['context']:
                         contexts.append(ctx_item['scenario'] + ' ' + ctx_item['comment'])
-                user_text = ' '.join(contexts)
-                user_texts.append(user_text)
-            
-            # Build TF-IDF vectors
+                user_texts.append(' '.join(contexts))
             self.tfidf_model = TfidfVectorizer(max_features=1000, stop_words='english')
             self.user_vectors = self.tfidf_model.fit_transform(user_texts)
             logger.info(f"TF-IDF model built for {len(self.user_list)} users")
-        
-        # Find most dissimilar user
+
         current_idx = self.user_list.index(current_user)
-        current_vector = self.user_vectors[current_idx:current_idx+1]
-        
-        # Calculate cosine similarity with all users
-        similarities = cosine_similarity(current_vector, self.user_vectors)[0]
-        
-        # Find user with lowest similarity (most dissimilar), excluding self
-        similarities[current_idx] = 1.0  # Exclude self
+        similarities = cosine_similarity(self.user_vectors[current_idx:current_idx+1], self.user_vectors)[0]
+        similarities[current_idx] = 1.0
         most_dissimilar_idx = np.argmin(similarities)
         most_dissimilar_user = self.user_list[most_dissimilar_idx]
-        
-        logger.info(f"Shuffle: {current_user} → {most_dissimilar_user} (similarity: {similarities[most_dissimilar_idx]:.3f})")
-        
-        # Get random MCQ context from most dissimilar user
+        logger.info(f"Shuffle (TF-IDF): {current_user} → {most_dissimilar_user}")
         dissimilar_user_mcqs = all_mcq_data[most_dissimilar_user]
         if dissimilar_user_mcqs:
             return random.choice(dissimilar_user_mcqs)['context']
@@ -456,9 +565,9 @@ Options:
     
     def evaluate_user_experiment(self, username: str, mcqs: List[Dict[str, Any]], 
                                 experiment_type: str, all_mcq_data: Dict[str, List]) -> Dict[str, Any]:
-        """Evaluate all MCQs for one user in one experiment with full parallelization"""
-        # Prepare all evaluation tasks
-        tasks = []
+        """Evaluate all MCQs for one user in one experiment with parallelization (topic-level)"""
+        # Prepare all evaluation tasks with context
+        task_queue = []
         
         for mcq in mcqs:
             # Filter by question type
@@ -471,27 +580,26 @@ Options:
             elif experiment_type == 'no_context':
                 context = []
             elif experiment_type == 'shuffle':
-                context = self.get_shuffle_context(all_mcq_data, username)
+                context = self.get_shuffle_context(all_mcq_data, username, mcq)
             else:
                 raise ValueError(f"Unknown experiment type: {experiment_type}")
             
-            # Create evaluation task with debug context
-            debug_context = f"{username} - {experiment_type} - {mcq['question_type']}"
-            
-            # Evaluate the MCQ directly
-            task = self.evaluate_single_mcq(mcq, context)
-            tasks.append(task)
+            task_queue.append((mcq, context))
         
-        # Execute all tasks synchronously
+        # Execute tasks with topic-level concurrency
         successful_results = []
-        for i, task in enumerate(tasks, 1):
-            try:
-                if self.config.debug:
-                    print(f"\nQuestion {i}/{len(tasks)} for user {username} in {experiment_type} experiment")
-                result = task
-                successful_results.append(result)
-            except Exception as e:
-                logger.error(f"Task failed: {e}")
+        with ThreadPoolExecutor(max_workers=self.config.max_concurrent_topics) as executor:
+            futures = {
+                executor.submit(self.evaluate_single_mcq, mcq, ctx): i 
+                for i, (mcq, ctx) in enumerate(task_queue)
+            }
+            
+            for future in as_completed(futures):
+                try:
+                    result = future.result()
+                    successful_results.append(result)
+                except Exception as e:
+                    logger.error(f"Task failed: {e}")
         
         return {
             'username': username,
@@ -601,29 +709,34 @@ Options:
         user_tasks = []
         usernames = list(all_mcq_data.keys())
         
-        # Process users sequentially
+        # Process users with file-level concurrency
         experiment_results = []
-        for i, username in enumerate(usernames, 1):
-            if self.config.debug:
-                print(f"\n{Colors.HEADER}{'='*60}{Colors.ENDC}")
-                print(f"{Colors.HEADER}{Colors.BOLD}PROCESSING USER {i}/{len(usernames)}: {username}{Colors.ENDC}")
-                print(f"{Colors.HEADER}{'='*60}{Colors.ENDC}")
-            
+        completed_count = 0
+        
+        def evaluate_user_wrapper(user_idx_username_tuple):
+            i, username = user_idx_username_tuple
             mcqs = all_mcq_data[username]
             user_result = self.evaluate_user_experiment(username, mcqs, experiment, all_mcq_data)
-            experiment_results.append(user_result)
+            nonlocal completed_count
+            completed_count += 1
             
-            if self.config.debug:
-                print(f"\n{Colors.GREEN}{Colors.BOLD}USER COMPLETED:{Colors.ENDC}")
-                print(f"{Colors.GREEN}Username: {username}{Colors.ENDC}")
-                print(f"{Colors.GREEN}Questions answered: {user_result['total_questions']}{Colors.ENDC}")
-                if user_result['results']:
-                    correct = sum(1 for r in user_result['results'] if r['is_correct'])
-                    accuracy = correct / len(user_result['results'])
-                    print(f"{Colors.GREEN}User accuracy: {accuracy:.4f} ({correct}/{len(user_result['results'])}){Colors.ENDC}")
+            if completed_count % 5 == 0 or completed_count == len(usernames):
+                logger.info(f"{experiment}: Completed {completed_count}/{len(usernames)} users")
             
-            if i % 5 == 0 or i == len(usernames):
-                logger.info(f"{experiment}: Completed {i}/{len(usernames)} users")
+            return user_result
+        
+        with ThreadPoolExecutor(max_workers=self.config.max_concurrent) as executor:
+            futures = {
+                executor.submit(evaluate_user_wrapper, (i+1, username)): username 
+                for i, username in enumerate(usernames)
+            }
+            
+            for future in as_completed(futures):
+                try:
+                    user_result = future.result()
+                    experiment_results.append(user_result)
+                except Exception as e:
+                    logger.error(f"User evaluation failed: {e}")
         
         # Calculate metrics for this experiment
         all_exp_results = []
@@ -660,7 +773,8 @@ def main():
                        default=['standard', 'no_context', 'shuffle'], help='Experiments to run')
     parser.add_argument('--question-types', nargs='+', choices=['stance', 'warrant', 'evidence'],
                        default=['stance', 'warrant', 'evidence'], help='Question types to evaluate')
-    parser.add_argument('--max-concurrent', type=int, default=10, help='Max concurrent requests')
+    parser.add_argument('--max-concurrent', type=int, default=10, help='Max concurrent file-level (user) processing (default: 10)')
+    parser.add_argument('--max-concurrent-topics', type=int, default=5, help='Max concurrent topic-level (MCQ) processing per user (default: 5)')
     parser.add_argument('--debug', action='store_true', help='Enable debug mode (show prompts and responses)')
     
     args = parser.parse_args()
@@ -673,6 +787,7 @@ def main():
         experiments=args.experiments,
         question_types=args.question_types,
         max_concurrent=args.max_concurrent,
+        max_concurrent_topics=args.max_concurrent_topics,
         debug=args.debug
     )
     
@@ -684,6 +799,8 @@ def main():
     print(f"Temperature: {config.temperature}, Seed: {config.seed}")
     print(f"Experiments: {config.experiments}")
     print(f"Question Types: {config.question_types}")
+    print(f"File-level concurrency (users): {config.max_concurrent}")
+    print(f"Topic-level concurrency (MCQs per user): {config.max_concurrent_topics}")
     if config.debug:
         print("DEBUG MODE: Enabled (step-by-step processing with detailed output)")
     print()
