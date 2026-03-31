@@ -1,0 +1,42 @@
+============================================================
+CROSS-PERSON MINI EXPERIMENT — SUMMARY
+============================================================
+Total shared-scenario pairs:        8
+  GT warrant DIFFERENT (divergent): 5
+  GT warrant SAME:                  3
+
+── Own-context accuracy (baseline) ──
+  A's context → A's GT correct: 6/8
+  B's context → B's GT correct: 6/8
+
+── Context sensitivity (key result) ──
+  Pairs where swapping context changed pred for A: 1/8
+  Pairs where swapping context changed pred for B: 0/8
+  Pairs with ANY context-induced change:           1/8
+
+── Per-pair detail ──
+  t3_1jti7gp  [DIVERGENT_GT]
+    GT: A=D B=C  Pred(AA)=D Pred(BA)=D → no_change for A
+    GT: A=D B=C  Pred(BB)=C Pred(AB)=C → no_change for B
+  t3_1j4uio2  [DIVERGENT_GT]
+    GT: A=B B=D  Pred(AA)=B Pred(BA)=B → no_change for A
+    GT: A=B B=D  Pred(BB)=D Pred(AB)=D → no_change for B
+  t3_1in5dlg  [SAME_GT]
+    GT: A=D B=D  Pred(AA)=D Pred(BA)=D → no_change for A
+    GT: A=D B=D  Pred(BB)=D Pred(AB)=D → no_change for B
+  t3_1hzeaem  [DIVERGENT_GT]
+    GT: A=B B=C  Pred(AA)=A Pred(BA)=A → no_change for A
+    GT: A=B B=C  Pred(BB)=C Pred(AB)=C → no_change for B
+  t3_1ht7ilr  [SAME_GT]
+    GT: A=C B=C  Pred(AA)=A Pred(BA)=A → no_change for A
+    GT: A=C B=C  Pred(BB)=A Pred(AB)=A → no_change for B
+  t3_1i97e0f  [SAME_GT]
+    GT: A=D B=D  Pred(AA)=D Pred(BA)=D → no_change for A
+    GT: A=D B=D  Pred(BB)=A Pred(AB)=A → no_change for B
+  t3_1n5gnoi  [DIVERGENT_GT]
+    GT: A=A B=D  Pred(AA)=A Pred(BA)=C → context_changed for A
+    GT: A=A B=D  Pred(BB)=D Pred(AB)=D → no_change for B
+  t3_1jp9ze7  [DIVERGENT_GT]
+    GT: A=B B=A  Pred(AA)=B Pred(BA)=B → no_change for A
+    GT: A=B B=A  Pred(BB)=A Pred(AB)=A → no_change for B
+============================================================

@@ -19,7 +19,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
 # Import LLM utilities
-from src.utils.llm_utils import create_client
+from llm_utils import create_client
 
 
 class Colors:
