@@ -1,0 +1,3966 @@
+{
+  "total_users": 100,
+  "total_topics": 395,
+  "users": [
+    {
+      "username": "Deep-Okra1461",
+      "jsd": 0.044,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1qdqppl",
+          "comment_id": "nzstk9z",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 7.7755
+        },
+        {
+          "post_id": "t3_1kd5li4",
+          "comment_id": "mq8zy2t",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 7.7216
+        },
+        {
+          "post_id": "t3_1mdifn8",
+          "comment_id": "n63zwbb",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 7.7216
+        },
+        {
+          "post_id": "t3_1joy2ec",
+          "comment_id": "mkw773d",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 6.9579
+        }
+      ]
+    },
+    {
+      "username": "swillshop",
+      "jsd": 0.067,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1hukbx6",
+          "comment_id": "m5nkdbv",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1jkntlr",
+          "comment_id": "mjyjjty",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1mopxug",
+          "comment_id": "n8f2usl",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1n0r7cj",
+          "comment_id": "natcf0f",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        }
+      ]
+    },
+    {
+      "username": "hadMcDofordinner",
+      "jsd": 0.07,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1hxt1vj",
+          "comment_id": "m6dbo0u",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1icdbbx",
+          "comment_id": "m9sbve6",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1icwirv",
+          "comment_id": "m9v4y8l",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1isi1i9",
+          "comment_id": "mdgrvgm",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        }
+      ]
+    },
+    {
+      "username": "Constant_Host_3212",
+      "jsd": 0.078,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i8cj5t",
+          "comment_id": "m8t768z",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1k8ue0e",
+          "comment_id": "mpdjo9r",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 4.4619
+        },
+        {
+          "post_id": "t3_1ih98zs",
+          "comment_id": "mbm0sw5",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 4.4591
+        },
+        {
+          "post_id": "t3_1kl8no6",
+          "comment_id": "ms2mxw2",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 4.4591
+        }
+      ]
+    },
+    {
+      "username": "Nester1953",
+      "jsd": 0.08,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j1ytcz",
+          "comment_id": "mfot91s",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1k2fl3c",
+          "comment_id": "mntr9iy",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1l1yy9g",
+          "comment_id": "mvqh44a",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1ll57bd",
+          "comment_id": "mzxa90v",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        }
+      ]
+    },
+    {
+      "username": "Spare_Ad5009",
+      "jsd": 0.085,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ijchmy",
+          "comment_id": "mbd43g0",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1ik31ah",
+          "comment_id": "mbjbsjj",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1in4mb7",
+          "comment_id": "mc8vkzz",
+          "warrant_gt": "loyalty_betrayal",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.9441
+        },
+        {
+          "post_id": "t3_1i4twid",
+          "comment_id": "m80y8j6",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "Outrageous-forest",
+      "jsd": 0.086,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jpgal2",
+          "comment_id": "ml3rclz",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1khjsa6",
+          "comment_id": "mr9649c",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1ktu6ss",
+          "comment_id": "mtxh7bg",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1l6hbm4",
+          "comment_id": "mws5fxk",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "SavingsRhubarb8746",
+      "jsd": 0.087,
+      "dominant": "property_consent",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jtmv1g",
+          "comment_id": "mlx73vn",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 6.1193
+        },
+        {
+          "post_id": "t3_1mwfunt",
+          "comment_id": "n9x73ij",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 6.1193
+        },
+        {
+          "post_id": "t3_1lf8vk2",
+          "comment_id": "mymd7xy",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 5.0082
+        },
+        {
+          "post_id": "t3_1lke67d",
+          "comment_id": "mzr2mar",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 5.0082
+        }
+      ]
+    },
+    {
+      "username": "Worth-Season3645",
+      "jsd": 0.09,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1iedw4d",
+          "comment_id": "ma6xckt",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1k62d9x",
+          "comment_id": "momrwer",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1jaah29",
+          "comment_id": "mhk2xfg",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1jvjdip",
+          "comment_id": "mmd8ksh",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "flynena-3",
+      "jsd": 0.092,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ldrkvi",
+          "comment_id": "mycqqqb",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 4.473
+        },
+        {
+          "post_id": "t3_1n7b9ms",
+          "comment_id": "ncan581",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 4.473
+        },
+        {
+          "post_id": "t3_1kwhrjr",
+          "comment_id": "muoo54c",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1lghj66",
+          "comment_id": "mz6li7v",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "Individual_Metal_983",
+      "jsd": 0.093,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i4twid",
+          "comment_id": "m7z1b5z",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1ih9zms",
+          "comment_id": "mb7p15o",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1j1c5ye",
+          "comment_id": "mg5cgg5",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1l65fq0",
+          "comment_id": "mwodyuk",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "R4eth",
+      "jsd": 0.093,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j0lkc4",
+          "comment_id": "mfdznun",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1lcgezm",
+          "comment_id": "my0b6ck",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1lghj66",
+          "comment_id": "myxu3zm",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1ln2n6l",
+          "comment_id": "n0cw7oi",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "ApprehensiveBook4214",
+      "jsd": 0.093,
+      "dominant": "property_consent",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jsj16g",
+          "comment_id": "mlnqlw4",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1lbg559",
+          "comment_id": "mxselz6",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1lera6z",
+          "comment_id": "myirlcm",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1lepb0l",
+          "comment_id": "myj6iy7",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "TheDarkHelmet1985",
+      "jsd": 0.096,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jvda0m",
+          "comment_id": "mm9rcjq",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1jzb2tl",
+          "comment_id": "mn9xq05",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1jzz5rw",
+          "comment_id": "mna15d1",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1kpop04",
+          "comment_id": "mt4tsvw",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "Dittoheadforever",
+      "jsd": 0.096,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1m9qrd8",
+          "comment_id": "n5919be",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 6.5524
+        },
+        {
+          "post_id": "t3_1iex7r2",
+          "comment_id": "mabhph6",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 6.1193
+        },
+        {
+          "post_id": "t3_1ncloe9",
+          "comment_id": "nda3607",
+          "warrant_gt": "authority_hierarchy",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 6.1193
+        },
+        {
+          "post_id": "t3_1idjf7u",
+          "comment_id": "m9zzh7t",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        }
+      ]
+    },
+    {
+      "username": "No-Assignment5538",
+      "jsd": 0.097,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1nnlz5t",
+          "comment_id": "nfmituq",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1nolhzb",
+          "comment_id": "nfsivwo",
+          "warrant_gt": "honesty_communication",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 4.2924
+        },
+        {
+          "post_id": "t3_1lveqwd",
+          "comment_id": "n271vmt",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1mhpdhx",
+          "comment_id": "n6yl42a",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "WhereWeretheAdults",
+      "jsd": 0.099,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1hzupda",
+          "comment_id": "m6tljfq",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1ig3xgr",
+          "comment_id": "malmcx9",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1kf5wcn",
+          "comment_id": "mqor3em",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1lsvncl",
+          "comment_id": "n1mrfvq",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "ScarletNotThatOne",
+      "jsd": 0.099,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1kqe9ds",
+          "comment_id": "mt5a78z",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1kxuqpq",
+          "comment_id": "mus8awk",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1l98c58",
+          "comment_id": "mxanxjt",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1lalylg",
+          "comment_id": "mxllxtm",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "International-Fee255",
+      "jsd": 0.099,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j4r298",
+          "comment_id": "mgpaa4p",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1jr1b5y",
+          "comment_id": "mlc2lvq",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1k898m5",
+          "comment_id": "mp4fldn",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1l5fe5p",
+          "comment_id": "mwgqp3w",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "Floating-Cynic",
+      "jsd": 0.101,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1hwkhk9",
+          "comment_id": "m634ly2",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1i5mec8",
+          "comment_id": "m86rjm2",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1ie53em",
+          "comment_id": "ma9g1a6",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1isp11m",
+          "comment_id": "mdiy5o8",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "Jerseygirl2468",
+      "jsd": 0.102,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j3d0ss",
+          "comment_id": "mfz4z4s",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1mg2mmf",
+          "comment_id": "n6rh94r",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1pk2vjt",
+          "comment_id": "ntktqd7",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1qwvluy",
+          "comment_id": "o3s15jo",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "Longjumping_Win4291",
+      "jsd": 0.102,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ieq19c",
+          "comment_id": "maa5s1g",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1inbt3w",
+          "comment_id": "mcguaj7",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1jpeqka",
+          "comment_id": "ml2v57d",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1knevwf",
+          "comment_id": "msivxcl",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "SubstantialQuit2653",
+      "jsd": 0.103,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ikkiov",
+          "comment_id": "mbor6l6",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1j4q99p",
+          "comment_id": "mgdb2ce",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1jwur4m",
+          "comment_id": "mmmzqee",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1jumxr7",
+          "comment_id": "mmx1u0f",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "Exciting-Peanut-1526",
+      "jsd": 0.103,
+      "dominant": "property_consent",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1kb0rjz",
+          "comment_id": "mpskbmd",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1kf06jd",
+          "comment_id": "mqpcgyb",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1klaggj",
+          "comment_id": "ms16683",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1koxwuw",
+          "comment_id": "mtaliai",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "1962Michael",
+      "jsd": 0.105,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1idnjss",
+          "comment_id": "ma0mtrv",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1l9u27w",
+          "comment_id": "mxfieo0",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1lg7mqu",
+          "comment_id": "myu730p",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        },
+        {
+          "post_id": "t3_1ll6vk3",
+          "comment_id": "mzxccir",
+          "warrant_gt": "safety_risk",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8686
+        }
+      ]
+    },
+    {
+      "username": "SigSauerPower320",
+      "jsd": 0.106,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1nj03xd",
+          "comment_id": "nemwwzr",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1pptdn5",
+          "comment_id": "nuth3b8",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1q5a9oe",
+          "comment_id": "nxyqve8",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1k3dlhw",
+          "comment_id": "mo25sdh",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        }
+      ]
+    },
+    {
+      "username": "Keely369",
+      "jsd": 0.107,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i6k1iy",
+          "comment_id": "m8f3hts",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1hy6bx9",
+          "comment_id": "m6glat0",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1hz5h9y",
+          "comment_id": "m6pli52",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1j0isvh",
+          "comment_id": "mffoq95",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        }
+      ]
+    },
+    {
+      "username": "LiveKindly01",
+      "jsd": 0.107,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1m85m8a",
+          "comment_id": "n4wp6me",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1iy1fm8",
+          "comment_id": "meqv1yd",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1knclrz",
+          "comment_id": "mshcw8q",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1kqd2dj",
+          "comment_id": "mt5aqca",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        }
+      ]
+    },
+    {
+      "username": "kurokomainu",
+      "jsd": 0.108,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ovt318",
+          "comment_id": "nolqif1",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1qb4e8c",
+          "comment_id": "nz7w33f",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1kp79z9",
+          "comment_id": "msy540j",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1kplamn",
+          "comment_id": "msymsyn",
+          "warrant_gt": "role_obligation",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7633
+        }
+      ]
+    },
+    {
+      "username": "SafetyFluid8535",
+      "jsd": 0.109,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1oqmlzt",
+          "comment_id": "nnmhulv",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1pchdke",
+          "comment_id": "nrxwy7y",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1pp9b4p",
+          "comment_id": "nulbx0c",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Family",
+          "aligned": true,
+          "score": 3.8257
+        },
+        {
+          "post_id": "t3_1pk4m8n",
+          "comment_id": "ntif8cn",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "ProfessorYaffle1",
+      "jsd": 0.109,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1mkrhqo",
+          "comment_id": "n7lrzj6",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1k5ohp3",
+          "comment_id": "mot0aob",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1kg2iw4",
+          "comment_id": "mqvkycd",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1lkyrrm",
+          "comment_id": "mzvj1fx",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "julesk",
+      "jsd": 0.111,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1l2vktf",
+          "comment_id": "mvzpzhp",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1jieab3",
+          "comment_id": "mjemdt6",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1o5ip5x",
+          "comment_id": "njbe681",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1nffps4",
+          "comment_id": "ndwsl8r",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "k23_k23",
+      "jsd": 0.112,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1iwnpii",
+          "comment_id": "mefnsk9",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1ktnavl",
+          "comment_id": "mtze2s7",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1mwpu7x",
+          "comment_id": "na1wt0l",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1j0v914",
+          "comment_id": "mff4gf6",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "Jealous-Contract7426",
+      "jsd": 0.115,
+      "dominant": "property_consent",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1nt1cfi",
+          "comment_id": "ngu6kel",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1ihibc8",
+          "comment_id": "maxm0vh",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1k9u3jf",
+          "comment_id": "mpidpd8",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1lwo8b9",
+          "comment_id": "n2htbhf",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "rockology_adam",
+      "jsd": 0.115,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1qofbc7",
+          "comment_id": "o20xdfs",
+          "warrant_gt": "role_obligation",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7633
+        },
+        {
+          "post_id": "t3_1rbamx2",
+          "comment_id": "o6poss9",
+          "warrant_gt": "role_obligation",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7633
+        },
+        {
+          "post_id": "t3_1iic9jf",
+          "comment_id": "mb4h2cp",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1jrgix7",
+          "comment_id": "mleie4t",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "FairyCompetent",
+      "jsd": 0.116,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j0wx3h",
+          "comment_id": "mffju0j",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1j81zlq",
+          "comment_id": "mh2pwt8",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1jfersx",
+          "comment_id": "mirmxu9",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1pb23qa",
+          "comment_id": "nroru39",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "Top-Entertainer2546",
+      "jsd": 0.117,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1mq6vkg",
+          "comment_id": "n8otdgc",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1p5s01q",
+          "comment_id": "nql8975",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1mt5yg2",
+          "comment_id": "n9crkxs",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1n1auj9",
+          "comment_id": "nb057ho",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "ScaryButterscotch474",
+      "jsd": 0.117,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1l1ps71",
+          "comment_id": "mvrc29y",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1ndorfq",
+          "comment_id": "nditlgw",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1kp0pot",
+          "comment_id": "msw0lgy",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1kqxycy",
+          "comment_id": "mtdzsne",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "Uubilicious_The_Wise",
+      "jsd": 0.118,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1k6sag2",
+          "comment_id": "mosfuai",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1lhu52s",
+          "comment_id": "mz72rlq",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1k0xi5y",
+          "comment_id": "mnhrhnz",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1l5enf6",
+          "comment_id": "mwgg7wf",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "owls_and_cardinals",
+      "jsd": 0.119,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1k6sag2",
+          "comment_id": "mosicb0",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1ks314g",
+          "comment_id": "mti6r9u",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1r33rfh",
+          "comment_id": "o51i036",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1ouf8ok",
+          "comment_id": "nob89aa",
+          "warrant_gt": "role_obligation",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7633
+        }
+      ]
+    },
+    {
+      "username": "ThisWillAgeWell",
+      "jsd": 0.121,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1nhgf78",
+          "comment_id": "nebeyyq",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1no3p2b",
+          "comment_id": "nfpam5i",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1m1wzh1",
+          "comment_id": "n3kl70v",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1nadj4k",
+          "comment_id": "nctipv9",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "wesmorgan1",
+      "jsd": 0.123,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jkk319",
+          "comment_id": "mjw1n9m",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1jr4y5k",
+          "comment_id": "mle6eh9",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1ko3vji",
+          "comment_id": "msnd1hw",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1lnkzj1",
+          "comment_id": "n0gam4c",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "Supernova-Max",
+      "jsd": 0.123,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1kh75hn",
+          "comment_id": "mrf62eb",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1kga56m",
+          "comment_id": "mr1pn3o",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1oqa92z",
+          "comment_id": "nnl0zpj",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1p6v549",
+          "comment_id": "nqvorwj",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "extinct_diplodocus",
+      "jsd": 0.124,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1hz8zeu",
+          "comment_id": "m6npd8z",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1j2skop",
+          "comment_id": "mfuc7no",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1qxt2gk",
+          "comment_id": "o3yvikw",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1k9ng7q",
+          "comment_id": "mpfpux6",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "CuriousEmphasis7698",
+      "jsd": 0.125,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1hwbrfz",
+          "comment_id": "m62gt2q",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1hwaov0",
+          "comment_id": "m62ei3o",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1jr4y5k",
+          "comment_id": "mldro9t",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1jttai0",
+          "comment_id": "mlxyf5b",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "Discount_Mithral",
+      "jsd": 0.127,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jdoss0",
+          "comment_id": "mic2jp3",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1i0mdec",
+          "comment_id": "m6z1gth",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1isl4ld",
+          "comment_id": "mdhl4ed",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1kfnadm",
+          "comment_id": "mqs0t2y",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "Puskarella",
+      "jsd": 0.128,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1lvnb65",
+          "comment_id": "n2b67hv",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1onvt68",
+          "comment_id": "nn0jlij",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1pee7rr",
+          "comment_id": "nsc3sal",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1il6ig5",
+          "comment_id": "mbsrte9",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "gloryhokinetic",
+      "jsd": 0.129,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1kd9tmh",
+          "comment_id": "mqywdnr",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1jjn0jd",
+          "comment_id": "mjpv4ot",
+          "warrant_gt": "role_obligation",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7633
+        },
+        {
+          "post_id": "t3_1q6hz2f",
+          "comment_id": "nyb2owl",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1im5gqz",
+          "comment_id": "mc90hqf",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        }
+      ]
+    },
+    {
+      "username": "CandylandCanada",
+      "jsd": 0.129,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1lnkzj1",
+          "comment_id": "n0g3l46",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1l6rbc7",
+          "comment_id": "mwr7bqv",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1huf3da",
+          "comment_id": "m5l11gb",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1im7a19",
+          "comment_id": "mc0tlu1",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "ShannaraRose",
+      "jsd": 0.13,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jveyhl",
+          "comment_id": "mmailhi",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1k4so2o",
+          "comment_id": "mocm7kf",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1m3eolf",
+          "comment_id": "n3xfhaz",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1m44b4p",
+          "comment_id": "n42bz54",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "KaliTheBlaze",
+      "jsd": 0.134,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1kckklu",
+          "comment_id": "mq3f0eq",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1itvy83",
+          "comment_id": "mdsjv53",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1jy0z11",
+          "comment_id": "mmuwnui",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1l7scr3",
+          "comment_id": "mwz83th",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        }
+      ]
+    },
+    {
+      "username": "Kami_Sang",
+      "jsd": 0.134,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i0bd5w",
+          "comment_id": "m6xbx8j",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1ko3vji",
+          "comment_id": "msn68wh",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1k2mw2k",
+          "comment_id": "mnvfsho",
+          "warrant_gt": "care_harm",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7757
+        },
+        {
+          "post_id": "t3_1p0i6lk",
+          "comment_id": "npjrww5",
+          "warrant_gt": "care_harm",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7757
+        }
+      ]
+    },
+    {
+      "username": "Sorry_I_Guess",
+      "jsd": 0.135,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1mfcaue",
+          "comment_id": "n6iwz9f",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1mkrhqo",
+          "comment_id": "n7lg4z0",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1l81ijt",
+          "comment_id": "mx82511",
+          "warrant_gt": "care_harm",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7757
+        },
+        {
+          "post_id": "t3_1o6mpkw",
+          "comment_id": "njngeo0",
+          "warrant_gt": "care_harm",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7757
+        }
+      ]
+    },
+    {
+      "username": "Individual_Ad_9213",
+      "jsd": 0.136,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i22n5q",
+          "comment_id": "m7azgs3",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1jqajlx",
+          "comment_id": "ml5p6iy",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1m9qx60",
+          "comment_id": "n5957k0",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1mm28ce",
+          "comment_id": "n7ulhxx",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        }
+      ]
+    },
+    {
+      "username": "IamIrene",
+      "jsd": 0.136,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ihxdn2",
+          "comment_id": "mb0ui9q",
+          "warrant_gt": "role_obligation",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.7877
+        },
+        {
+          "post_id": "t3_1k294x5",
+          "comment_id": "mns9jcy",
+          "warrant_gt": "care_harm",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7757
+        },
+        {
+          "post_id": "t3_1iomgjz",
+          "comment_id": "mckvj5l",
+          "warrant_gt": "role_obligation",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7633
+        },
+        {
+          "post_id": "t3_1kayeo5",
+          "comment_id": "mpq7qfe",
+          "warrant_gt": "role_obligation",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7633
+        }
+      ]
+    },
+    {
+      "username": "Realistic_Head4279",
+      "jsd": 0.136,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1k7oczc",
+          "comment_id": "mozpcuf",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1kjq5kn",
+          "comment_id": "mrorzqp",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1ia1mu3",
+          "comment_id": "m97mu35",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1iou8vx",
+          "comment_id": "mcmmmvp",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "KrofftSurvivor",
+      "jsd": 0.136,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1k9b0s5",
+          "comment_id": "mpd0fx9",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1p4xxs0",
+          "comment_id": "nqfchbt",
+          "warrant_gt": "care_harm",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.7757
+        },
+        {
+          "post_id": "t3_1irqlfq",
+          "comment_id": "mdb6ejo",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1p3e6ql",
+          "comment_id": "nq430d7",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "TemptingPenguin369",
+      "jsd": 0.136,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1iic9k0",
+          "comment_id": "mb4dyff",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1muv8eo",
+          "comment_id": "n9lorpi",
+          "warrant_gt": "care_harm",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.5868
+        },
+        {
+          "post_id": "t3_1k0p2ea",
+          "comment_id": "mng5n5s",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1irtmly",
+          "comment_id": "mdbhnhr",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "Cautious-Job8683",
+      "jsd": 0.137,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1mp9c6m",
+          "comment_id": "n8ia5ga",
+          "warrant_gt": "care_harm",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 3.8271
+        },
+        {
+          "post_id": "t3_1jj3l3t",
+          "comment_id": "mjn7k3i",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1ip82dx",
+          "comment_id": "mcwck1y",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1j4uio2",
+          "comment_id": "mgeb177",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "AllAFantasy30",
+      "jsd": 0.138,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j3c04y",
+          "comment_id": "mg56og9",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1ko8e7s",
+          "comment_id": "msoc281",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1kquze4",
+          "comment_id": "mt9xnz7",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1kqwyak",
+          "comment_id": "mteuntr",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "ReadMeDrMemory",
+      "jsd": 0.138,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1obyrcp",
+          "comment_id": "nkj1k0l",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1os1ypi",
+          "comment_id": "nnu68ns",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1o9pobt",
+          "comment_id": "nk5m6eg",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1og8s26",
+          "comment_id": "nlf3n97",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "pottersquash",
+      "jsd": 0.138,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1qohnon",
+          "comment_id": "o21jam7",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1i87cji",
+          "comment_id": "m8qzrdf",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1lwjmga",
+          "comment_id": "n2er55q",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1mvgpt2",
+          "comment_id": "n9q0j5t",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "Spare_Necessary_810",
+      "jsd": 0.139,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i4yo2d",
+          "comment_id": "m81uytc",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1i5zpoy",
+          "comment_id": "m8bnbm1",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1ixvx9f",
+          "comment_id": "merzf05",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1iy5n9x",
+          "comment_id": "mes4500",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "LawyerDad1981",
+      "jsd": 0.139,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1htc12a",
+          "comment_id": "m5d3m09",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1i1ep9e",
+          "comment_id": "m77zfg5",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1ii13l2",
+          "comment_id": "mbyupk4",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1issgem",
+          "comment_id": "mdjlh6b",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "Pkfrompa",
+      "jsd": 0.14,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ix97wc",
+          "comment_id": "menu3k8",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1j4uio2",
+          "comment_id": "mgtm7sb",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1megt4c",
+          "comment_id": "n6nk6s0",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        },
+        {
+          "post_id": "t3_1lqaeoh",
+          "comment_id": "n94xini",
+          "warrant_gt": "tradition_expectations",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.5074
+        }
+      ]
+    },
+    {
+      "username": "Clean_Permit_3791",
+      "jsd": 0.14,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1in3ko0",
+          "comment_id": "mcaqawy",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1jpbbqp",
+          "comment_id": "mkzc56x",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1jsjztg",
+          "comment_id": "mlogad0",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1l0ecxn",
+          "comment_id": "mvhmb4e",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "NCKALA",
+      "jsd": 0.14,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j0f2ej",
+          "comment_id": "mg4hvvb",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1ijnwfd",
+          "comment_id": "mbg7pbc",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1ivd2io",
+          "comment_id": "me55pye",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1izd7fm",
+          "comment_id": "mf3kpip",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "The1Eileen",
+      "jsd": 0.141,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1nha8am",
+          "comment_id": "neecmww",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1nkwbtw",
+          "comment_id": "nf79rp9",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1q4fh3b",
+          "comment_id": "nxuwh1f",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1lbdx4b",
+          "comment_id": "mxv6d2c",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "GreekAmericanDom",
+      "jsd": 0.142,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1j0calw",
+          "comment_id": "mfa2tuh",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1jclzg3",
+          "comment_id": "mi3h6dg",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1jqqh9u",
+          "comment_id": "ml8yeer",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1llsd9n",
+          "comment_id": "n01x78t",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "M312345",
+      "jsd": 0.142,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1oq0e4v",
+          "comment_id": "noqmjm2",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1o6nct2",
+          "comment_id": "njhop30",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 3.2806
+        },
+        {
+          "post_id": "t3_1hx0yg4",
+          "comment_id": "m67n63n",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1jqt090",
+          "comment_id": "mldb8dj",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        }
+      ]
+    },
+    {
+      "username": "No_Philosopher_1870",
+      "jsd": 0.142,
+      "dominant": "property_consent",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ht108a",
+          "comment_id": "m5a0s65",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1ii8pmf",
+          "comment_id": "mb3it2o",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1im84va",
+          "comment_id": "mc11ztg",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1j5wc8o",
+          "comment_id": "mgm8kly",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "Mirvb",
+      "jsd": 0.143,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1joypil",
+          "comment_id": "mkyc0wg",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1khtlez",
+          "comment_id": "mrbzvoa",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 3.5336
+        },
+        {
+          "post_id": "t3_1kaahlf",
+          "comment_id": "mpubskg",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1n6gyd0",
+          "comment_id": "nc46aui",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "jackb6ii",
+      "jsd": 0.143,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i8p6g5",
+          "comment_id": "m8xa036",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1imyzip",
+          "comment_id": "mc7y736",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1ioryz5",
+          "comment_id": "mcnap3h",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1jzwllg",
+          "comment_id": "mnabdye",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "KimB-booksncats-11",
+      "jsd": 0.144,
+      "dominant": "care_harm",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ij8j23",
+          "comment_id": "mbd6gmd",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1ij8aeq",
+          "comment_id": "mbefm0d",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1jpbbqp",
+          "comment_id": "ml2n3vg",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1jq2nid",
+          "comment_id": "ml7a0jx",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        }
+      ]
+    },
+    {
+      "username": "dontlikebeige",
+      "jsd": 0.144,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jg7xjc",
+          "comment_id": "miz7py1",
+          "warrant_gt": "fairness_reciprocity",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.4159
+        },
+        {
+          "post_id": "t3_1l0mek7",
+          "comment_id": "mvfvwpv",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1lgvxkc",
+          "comment_id": "myzf18u",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1j3fnga",
+          "comment_id": "mg6pbt3",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        }
+      ]
+    },
+    {
+      "username": "Time-Tie-231",
+      "jsd": 0.144,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i920te",
+          "comment_id": "m8zyhfs",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1ieiwc5",
+          "comment_id": "maamad7",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1jx6rkb",
+          "comment_id": "mmsee1c",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1kat4pv",
+          "comment_id": "mpspgaf",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        }
+      ]
+    },
+    {
+      "username": "allergymom74",
+      "jsd": 0.146,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jt9pqn",
+          "comment_id": "mm1zzze",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1kdee63",
+          "comment_id": "mqb3j7p",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1npxj08",
+          "comment_id": "ng4g61s",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1nvg74z",
+          "comment_id": "nh8ecy2",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        }
+      ]
+    },
+    {
+      "username": "ClassicCommercial581",
+      "jsd": 0.146,
+      "dominant": "care_harm",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1mapia7",
+          "comment_id": "n5y9hzs",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        },
+        {
+          "post_id": "t3_1p8jts2",
+          "comment_id": "nr78gz2",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        },
+        {
+          "post_id": "t3_1r0wylc",
+          "comment_id": "o4lbleb",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.4297
+        },
+        {
+          "post_id": "t3_1ibrqd9",
+          "comment_id": "m9m6jq9",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 2.0677
+        }
+      ]
+    },
+    {
+      "username": "OhmsWay-71",
+      "jsd": 0.147,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1htn80n",
+          "comment_id": "m5erk6d",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1ibbso5",
+          "comment_id": "m9h4vty",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1ih57uz",
+          "comment_id": "mauihjf",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1ikqsem",
+          "comment_id": "mbpu0vb",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        }
+      ]
+    },
+    {
+      "username": "SomeoneYouDontKnow70",
+      "jsd": 0.148,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1k2dbjo",
+          "comment_id": "mnta769",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1liojna",
+          "comment_id": "mzdr30q",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1neb0ys",
+          "comment_id": "ndnfcn1",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1nfp5kd",
+          "comment_id": "ndy9cj4",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        }
+      ]
+    },
+    {
+      "username": "ViolaVetch75",
+      "jsd": 0.148,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ifople",
+          "comment_id": "mb6jw1x",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1iwzv0j",
+          "comment_id": "memz8tu",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1jl3ob3",
+          "comment_id": "mk3hp8t",
+          "warrant_gt": "property_consent",
+          "post_label": "Romance",
+          "aligned": true,
+          "score": 3.1946
+        },
+        {
+          "post_id": "t3_1n5ax24",
+          "comment_id": "nbrdrr6",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        }
+      ]
+    },
+    {
+      "username": "West_House_2085",
+      "jsd": 0.148,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1kdkm6j",
+          "comment_id": "mqdptua",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1npfdvm",
+          "comment_id": "ng1iik2",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1k33upo",
+          "comment_id": "mnzfmbc",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        },
+        {
+          "post_id": "t3_1kv5q6n",
+          "comment_id": "mu88efz",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        }
+      ]
+    },
+    {
+      "username": "Better-Turnover2783",
+      "jsd": 0.148,
+      "dominant": "property_consent",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1l38g7r",
+          "comment_id": "mvzgg3r",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1luxx3o",
+          "comment_id": "n289w35",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1no82ku",
+          "comment_id": "nfrpdiq",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1iknaur",
+          "comment_id": "mbofdqq",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        }
+      ]
+    },
+    {
+      "username": "WhatInTheAssPepper",
+      "jsd": 0.149,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1nqda51",
+          "comment_id": "ng6kltw",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1oj641w",
+          "comment_id": "nm0ykus",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1mtyajv",
+          "comment_id": "n9fwooj",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1mwmi6g",
+          "comment_id": "na074og",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        }
+      ]
+    },
+    {
+      "username": "Ordinary-Audience363",
+      "jsd": 0.15,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1od6yqx",
+          "comment_id": "nksu05r",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1p97z5o",
+          "comment_id": "nre54lb",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1pdrf0w",
+          "comment_id": "nsccw8i",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1q9y5av",
+          "comment_id": "nyzsovl",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        }
+      ]
+    },
+    {
+      "username": "IllustriousBowler259",
+      "jsd": 0.15,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ncps38",
+          "comment_id": "ndb64zq",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1mwmi6g",
+          "comment_id": "na0fjvw",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1n14u4u",
+          "comment_id": "navp7j3",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1nkj0n6",
+          "comment_id": "nez4jhr",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        }
+      ]
+    },
+    {
+      "username": "mavenmim",
+      "jsd": 0.15,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ki4vjq",
+          "comment_id": "mrcfnl2",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1kty3m0",
+          "comment_id": "mtxdyms",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1kx1oyn",
+          "comment_id": "mulscwm",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1kb2gdf",
+          "comment_id": "mpr3u2n",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        }
+      ]
+    },
+    {
+      "username": "opine704",
+      "jsd": 0.15,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1igqjve",
+          "comment_id": "mawu5h0",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1nd15pz",
+          "comment_id": "ndfkbg0",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1i556e6",
+          "comment_id": "m86was4",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1kba7qv",
+          "comment_id": "mptqnd4",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        }
+      ]
+    },
+    {
+      "username": "Chance-Cod-2894",
+      "jsd": 0.15,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1n0cz0s",
+          "comment_id": "nar36lt",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1iz5veb",
+          "comment_id": "mf8ykl0",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1i7n5bg",
+          "comment_id": "m8q5v8c",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        },
+        {
+          "post_id": "t3_1iwx7p8",
+          "comment_id": "mf8cfi5",
+          "warrant_gt": "property_consent",
+          "post_label": "Friendship",
+          "aligned": true,
+          "score": 2.5857
+        }
+      ]
+    },
+    {
+      "username": "Elegant_Bluebird_460",
+      "jsd": 0.151,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1ozukqx",
+          "comment_id": "npegtdd",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1hxj2c1",
+          "comment_id": "m69hde9",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1jllixl",
+          "comment_id": "mk4knmx",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1llbq9y",
+          "comment_id": "mzyibmm",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        }
+      ]
+    },
+    {
+      "username": "CMeNaught",
+      "jsd": 0.152,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i4t3wa",
+          "comment_id": "m7z6vmr",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1l5k9wy",
+          "comment_id": "mwhygpa",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1q3jv0e",
+          "comment_id": "nxm0za9",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1jj3l3t",
+          "comment_id": "mjma0u4",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        }
+      ]
+    },
+    {
+      "username": "SoMuchMoreEagle",
+      "jsd": 0.152,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1l480sc",
+          "comment_id": "mw6vrf8",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1i3unu9",
+          "comment_id": "m7q0au0",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        },
+        {
+          "post_id": "t3_1lkhant",
+          "comment_id": "mzrokqb",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        },
+        {
+          "post_id": "t3_1n3l1px",
+          "comment_id": "nbedf5t",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        }
+      ]
+    },
+    {
+      "username": "blueswan6",
+      "jsd": 0.152,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1kxomiz",
+          "comment_id": "mur0vz0",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1r38vcc",
+          "comment_id": "o55u3cs",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1i8nwzt",
+          "comment_id": "m8womk1",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.4297
+        },
+        {
+          "post_id": "t3_1jny5a0",
+          "comment_id": "mkqnyrj",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.4297
+        }
+      ]
+    },
+    {
+      "username": "Expensive_Plant_9530",
+      "jsd": 0.152,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i4t3wa",
+          "comment_id": "m80a1xo",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1isjwiz",
+          "comment_id": "mdhnv0s",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1lii93a",
+          "comment_id": "mzevxu3",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1j4zvxq",
+          "comment_id": "mgeinvk",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        }
+      ]
+    },
+    {
+      "username": "Donutsmell",
+      "jsd": 0.153,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1krllpr",
+          "comment_id": "mtegwxx",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1l6nrin",
+          "comment_id": "mwrouai",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1lhtmea",
+          "comment_id": "mz6u7yb",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1l6tnql",
+          "comment_id": "mwrldmv",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        }
+      ]
+    },
+    {
+      "username": "Better_Implement_973",
+      "jsd": 0.153,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1jyqbhh",
+          "comment_id": "mnez31o",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1jauza0",
+          "comment_id": "mhrhozm",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        },
+        {
+          "post_id": "t3_1lz3o87",
+          "comment_id": "n32z3e3",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        },
+        {
+          "post_id": "t3_1nff7nk",
+          "comment_id": "ndxjl6z",
+          "warrant_gt": "property_consent",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.4966
+        }
+      ]
+    },
+    {
+      "username": "Viva_Veracity1906",
+      "jsd": 0.153,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1n0cz0s",
+          "comment_id": "narhg7w",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1lemrx0",
+          "comment_id": "mymku06",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1m0mo57",
+          "comment_id": "n3azm28",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1mjdr1a",
+          "comment_id": "n7be7kr",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        }
+      ]
+    },
+    {
+      "username": "CPSue",
+      "jsd": 0.154,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1korkdz",
+          "comment_id": "msti5rs",
+          "warrant_gt": "property_consent",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.811
+        },
+        {
+          "post_id": "t3_1im5gqz",
+          "comment_id": "mc2bp80",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1ivqduq",
+          "comment_id": "me7rx5x",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1k9g8wn",
+          "comment_id": "mpeev8c",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        }
+      ]
+    },
+    {
+      "username": "Only-Breadfruit-6108",
+      "jsd": 0.154,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1q5aund",
+          "comment_id": "nxysxli",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        },
+        {
+          "post_id": "t3_1mjssf4",
+          "comment_id": "n7ea8rs",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Work",
+          "aligned": true,
+          "score": 2.4297
+        }
+      ]
+    },
+    {
+      "username": "CoverCharacter8179",
+      "jsd": 0.154,
+      "dominant": "autonomy_boundaries",
+      "tier": "star",
+      "test_topics": [
+        {
+          "post_id": "t3_1i0it37",
+          "comment_id": "m6y8e2y",
+          "warrant_gt": "autonomy_boundaries",
+          "post_label": "Society",
+          "aligned": true,
+          "score": 2.691
+        }
+      ]
+    }
+  ]
+}
