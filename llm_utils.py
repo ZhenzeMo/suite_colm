@@ -3,6 +3,7 @@ LLM Client Utilities
 Universal interface for calling different LLM models with function calling support.
 """
 
+import re
 import os
 import json
 import logging
@@ -12,6 +13,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 logger = logging.getLogger(__name__)
+
+MAX_RETRIES = 10
 
 
 class BaseLLMClient:
@@ -45,6 +48,11 @@ class LLMClient(BaseLLMClient):
             'api_key_env': 'QWEN_API_KEY',
             'tool_choice_format': 'object',  # DeepSeek-V3/V3.2: same as Qwen (DeepSeek-R1 has separate client)
         },
+        'glm': {
+            'base_url': 'https://dashscope.aliyuncs.com/compatible-mode/v1',
+            'api_key_env': 'QWEN_API_KEY',
+            'tool_choice_format': 'object',  # GLM series: same endpoint as Qwen
+        },
         'llama': {
             'base_url': 'https://api.novita.ai/openai',
             'api_key_env': 'LLAMA_API_KEY',
@@ -64,10 +72,11 @@ class LLMClient(BaseLLMClient):
         
         Args:
             model_name: Model identifier
-                - Qwen: 'qwen-flash', 'qwen-plus', 'qwen-max' (via aliyun)
+                - Qwen:     'qwen-flash', 'qwen-plus', 'qwen-max' (via aliyun)
                 - DeepSeek: 'deepseek-r1', 'deepseek-v3' (via aliyun, same as Qwen)
-                - Llama: 'meta-llama/llama-3.3-70b-instruct' (via novita)
-                - GPT: 'gpt-4o', 'gpt-4-turbo', etc. (via openai)
+                - GLM:      'glm-4.5-air', etc. (via aliyun, same endpoint as Qwen)
+                - Llama:    'meta-llama/llama-3.3-70b-instruct' (via novita)
+                - GPT:      'gpt-4o', 'gpt-4-turbo', etc. (via openai)
             temperature: Sampling temperature
             seed: Random seed for reproducibility
             debug: Enable debug output
@@ -113,6 +122,8 @@ class LLMClient(BaseLLMClient):
             return 'deepseek'
         elif model_lower.startswith('gpt') or model_lower.startswith('o1'):
             return 'gpt'
+        elif 'glm' in model_lower:
+            return 'glm'
         elif 'qwen' in model_lower:
             return 'qwen'
         else:
@@ -136,17 +147,17 @@ class LLMClient(BaseLLMClient):
             Dict with 'content' (text response) or 'tool_calls' (function calls)
         """
         # Build API parameters
-        api_params = {
-            'model': self.model_name,
-            'messages': messages,
-            'temperature': self.temperature,
-            'seed': self.seed,
-            **kwargs
-        }
+        api_params = {'model': self.model_name, 'messages': messages, **kwargs}
         
-        # Add max_tokens if specified
+        # OpenAI models only support temperature=1 (default); skip for gpt type
+        if self.model_type != 'gpt':
+            api_params['temperature'] = self.temperature
+            api_params['seed'] = self.seed
+        
+        # Add max tokens if specified (OpenAI requires max_completion_tokens, others use max_tokens)
         if max_tokens:
-            api_params['max_tokens'] = max_tokens
+            token_param = 'max_completion_tokens' if self.model_type == 'gpt' else 'max_tokens'
+            api_params[token_param] = max_tokens
         
         # Add tools and tool_choice if provided
         if tools:
@@ -177,7 +188,47 @@ class LLMClient(BaseLLMClient):
                 if 'tool_choice' in api_params:
                     logger.info(f"Tool choice: {api_params['tool_choice']}")
         
-        # Make API call
+        # Qwen3 with tools: disable thinking mode (thinking mode rejects forced tool_choice)
+        if self.model_type == 'qwen' and tools:
+            api_params['extra_body'] = {'enable_thinking': False}
+
+        # GLM: disable thinking and use streaming
+        if self.model_type == 'glm':
+            api_params['extra_body'] = {'enable_thinking': False}
+            api_params['stream'] = True
+            stream = self.client.chat.completions.create(**api_params)
+            content_parts, tc_chunks = [], {}
+            for chunk in stream:
+                if not chunk.choices:
+                    continue
+                delta = chunk.choices[0].delta
+                if delta.tool_calls:
+                    for tc in delta.tool_calls:
+                        idx = tc.index
+                        if idx not in tc_chunks:
+                            tc_chunks[idx] = {'name': '', 'arguments': ''}
+                        if tc.function.name:
+                            tc_chunks[idx]['name'] += tc.function.name
+                        if tc.function.arguments:
+                            tc_chunks[idx]['arguments'] += tc.function.arguments
+                elif delta.content:
+                    content_parts.append(delta.content)
+            result = {}
+            if tc_chunks:
+                result['tool_calls'] = [
+                    {'function_name': tc['name'], 'arguments': json.loads(tc['arguments'])}
+                    for tc in tc_chunks.values()
+                ]
+                if self.debug:
+                    logger.info(f"Function call: {result['tool_calls'][0]['function_name']}")
+                    logger.info(f"Arguments: {result['tool_calls'][0]['arguments']}")
+            else:
+                result['content'] = ''.join(content_parts)
+                if self.debug:
+                    logger.info(f"Response: {result['content'][:200]}...")
+            return result
+        
+        # Make API call (non-streaming)
         response = self.client.chat.completions.create(**api_params)
         
         # Parse response
@@ -226,43 +277,35 @@ class LLMClient(BaseLLMClient):
             }
         }]
         
-        try:
-            result = self.call(messages, tools=tools, **kwargs)
-            
-            if 'tool_calls' in result:
-                return result['tool_calls'][0]['arguments']
-            else:
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                result = self.call(messages, tools=tools, **kwargs)
+                
+                if 'tool_calls' in result:
+                    return result['tool_calls'][0]['arguments']
+                
                 # Fallback: Extract answer from text (for models that don't force function calling)
                 text_content = result.get('content', '')
-                logger.warning(f"No tool calls in response, attempting to extract from text: {text_content[:100]}")
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: no tool calls, extracting from text: {text_content[:100]}")
                 
-                # Get expected answer format from schema
                 params = function_schema.get('parameters', {})
-                properties = params.get('properties', {})
-                answer_prop = properties.get('answer', {})
-                
+                answer_prop = params.get('properties', {}).get('answer', {})
                 if answer_prop.get('type') == 'string':
-                    # Extract letter options (A, B, C, D)
-                    import re
                     enum_values = answer_prop.get('enum', [])
                     if enum_values:
-                        # Look for valid options in text
-                        pattern = r'\b(' + '|'.join(enum_values) + r')\b'
-                        matches = re.findall(pattern, text_content, re.IGNORECASE)
+                        matches = re.findall(r'\b(' + '|'.join(enum_values) + r')\b', text_content, re.IGNORECASE)
                         if matches:
                             extracted = matches[-1].upper()
                             logger.info(f"Extracted answer from text: {extracted}")
                             return {'answer': extracted}
-                
-                logger.error(f"Could not extract answer from text response")
-                return {}
+            
+            except json.JSONDecodeError as e:
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: JSON parse error: {e}")
+            except Exception as e:
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: LLM call failed: {e}")
         
-        except json.JSONDecodeError as e:
-            logger.error(f"Failed to parse function arguments: {e}")
-            return {}
-        except Exception as e:
-            logger.error(f"LLM call failed: {e}")
-            return {}
+        logger.error("All retry attempts exhausted")
+        return {}
 
 
 class DeepSeekR1Client(BaseLLMClient):
@@ -438,43 +481,35 @@ class DeepSeekR1Client(BaseLLMClient):
                 }
             ] + messages
         
-        try:
-            result = self.call(enhanced_messages, tools=tools, **kwargs)
-            
-            if 'tool_calls' in result:
-                return result['tool_calls'][0]['arguments']
-            else:
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                result = self.call(enhanced_messages, tools=tools, **kwargs)
+                
+                if 'tool_calls' in result:
+                    return result['tool_calls'][0]['arguments']
+                
                 # Fallback: Extract answer from text (if model chose to respond with text instead)
                 text_content = result.get('content', '')
-                logger.warning(f"No tool calls in response, attempting to extract from text: {text_content[:100]}")
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: no tool calls, extracting from text: {text_content[:100]}")
                 
-                # Get expected answer format from schema
                 params = function_schema.get('parameters', {})
-                properties = params.get('properties', {})
-                answer_prop = properties.get('answer', {})
-                
+                answer_prop = params.get('properties', {}).get('answer', {})
                 if answer_prop.get('type') == 'string':
-                    # Extract letter options (A, B, C, D)
-                    import re
                     enum_values = answer_prop.get('enum', [])
                     if enum_values:
-                        # Look for valid options in text
-                        pattern = r'\b(' + '|'.join(enum_values) + r')\b'
-                        matches = re.findall(pattern, text_content, re.IGNORECASE)
+                        matches = re.findall(r'\b(' + '|'.join(enum_values) + r')\b', text_content, re.IGNORECASE)
                         if matches:
                             extracted = matches[-1].upper()
                             logger.info(f"Extracted answer from text: {extracted}")
                             return {'answer': extracted}
-                
-                logger.error(f"Could not extract answer from text response")
-                return {}
+            
+            except json.JSONDecodeError as e:
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: JSON parse error: {e}")
+            except Exception as e:
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: DeepSeek-R1 call failed: {e}")
         
-        except json.JSONDecodeError as e:
-            logger.error(f"Failed to parse function arguments: {e}")
-            return {}
-        except Exception as e:
-            logger.error(f"DeepSeek-R1 call failed: {e}")
-            return {}
+        logger.error("All retry attempts exhausted")
+        return {}
 
 
 class GPT5Client(BaseLLMClient):
@@ -670,21 +705,22 @@ class GPT5Client(BaseLLMClient):
             }
         }]
         
-        try:
-            result = self.call(messages, tools=tools, **kwargs)
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                result = self.call(messages, tools=tools, **kwargs)
+                
+                if 'tool_calls' in result:
+                    return result['tool_calls'][0]['arguments']
+                
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: no tool calls, got text: {result.get('content', '')[:100]}")
             
-            if 'tool_calls' in result:
-                return result['tool_calls'][0]['arguments']
-            else:
-                logger.warning(f"No tool calls in response, got text: {result.get('content', '')[:100]}")
-                return {}
+            except json.JSONDecodeError as e:
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: JSON parse error: {e}")
+            except Exception as e:
+                logger.warning(f"Attempt {attempt}/{MAX_RETRIES}: GPT-5 call failed: {e}")
         
-        except json.JSONDecodeError as e:
-            logger.error(f"Failed to parse function arguments: {e}")
-            return {}
-        except Exception as e:
-            logger.error(f"GPT-5 call failed: {e}")
-            return {}
+        logger.error("All retry attempts exhausted")
+        return {}
 
 
 def create_client(model_name: str, **kwargs) -> BaseLLMClient:
@@ -701,8 +737,8 @@ def create_client(model_name: str, **kwargs) -> BaseLLMClient:
     """
     model_lower = model_name.lower()
     
-    # Detect GPT-5 models (gpt-5, gpt-5.1, gpt-5.2, gpt-5-nano, etc.)
-    if 'gpt-5' in model_lower:
+    # Detect GPT-5 models (gpt-5, gpt-5.1, gpt-5.2, gpt-5-nano, gpt5nano, etc.)
+    if 'gpt-5' in model_lower or 'gpt5' in model_lower:
         # Remove temperature and seed if provided (GPT-5 doesn't use them)
         kwargs.pop('temperature', None)
         kwargs.pop('seed', None)
